@@ -1,20 +1,17 @@
 ---
 # Display name
-title: Marija Ilic
+title: Miroslav Kosanic
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Senior Research Scientist
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: MIT Laboratory for Information and Decision Systems
+  - name: MIT Department of Electrical Engineering & Computer Science
     url: ''
-  - name: Energy Systems Group 73, Lincoln Laboratory
-  - name: New Electricity Transmission Software Solutions (NETSS) Inc.
-  - name: Emeritus faculty, Carnegie Mellon University
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -43,16 +40,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ilic@mit.edu'
+    link: 'mailto:kosanic@mit.edu'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=9xLOzFcAAAAJ&hl=en&oi=ao
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/gcushen
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/kosanic
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Grad Students
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
