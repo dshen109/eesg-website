@@ -1,3 +1,6 @@
+*.lock
+cache/
+
 # IDEs
 .idea/
 
@@ -5,3 +8,6 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# Local Netlify folder
+.netlify
