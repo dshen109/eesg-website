@@ -3,8 +3,8 @@
 title: Dynamic Monitoring and Decision Systems (DyMonDS) framework for IT-enabled engineering of retail-level energy services (RES)
 summary: ""
 authors:
-#   - huang
-#   - wu
+  - ilic
+
 tags:
   - dymonds
 categories:
