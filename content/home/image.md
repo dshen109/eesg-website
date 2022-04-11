@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -28,4 +28,5 @@ design:
     padding: ['20px', '0', '20px', '0']
 advanced:
   css_class: fullscreen
+
 ---

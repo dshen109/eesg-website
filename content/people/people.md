@@ -18,12 +18,13 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
+    - Postdocs
     - Grad Students
-    - Administration
     - Visitors
+    - Recent Grad Students
     - Alumni
 design:
   show_interests: false
   show_role: true
-  show_social: true
+  show_social: false
 ---

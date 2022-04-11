@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Electrical Energy Systems Group (EESG)
-hero_media: welcome.jpg
+hero_media: power-lines-water.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-Your description here!
+EESG description goes here!
