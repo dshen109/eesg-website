@@ -1,25 +1,24 @@
 ---
-title: 'Recursive Algorithm for Resource Allocation in Radial Network Systems'
+title: 'Power Systems Restructuring: Engineering and Economics'
 authors:
-  - jaddivada
-  - Sruthi Davuluri
-  - Magnus Korpaas
   - ilic
-date: '15 July 2019'
+  - Francisco Galiana
+  - Lester Fink
+date: '1998'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-07-15T00:00:00Z'
+publishDate: '1998-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['5']
 
 # Publication name and optional abbreviated publication name.
-publication: '2019 8th Mediterranean Conference on Embedded Computing'
-publication_short: 'MECO'
+publication: ''
+publication_short: ''
 
 tags:
 #   - Source Themes
@@ -28,7 +27,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8760141
+url_pdf: 'https://link.springer.com/content/pdf/10.1007%2F978-1-4757-2883-5.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,25 +1,27 @@
 ---
-title: 'Recursive Algorithm for Resource Allocation in Radial Network Systems'
+title: 'U.S. Patent 10,755,295: Adaptive load management: a system for incorporating customer electrical demand information for demand and supply side energy management'
 authors:
-  - jaddivada
-  - Sruthi Davuluri
-  - Magnus Korpaas
   - ilic
-date: '15 July 2019'
+  - Jhi Young Joo
+  - Burton Warren Andrews
+  - Badri Raghunathan
+  - Diego Benitez
+  - Felix Maus
+date: '2020'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-07-15T00:00:00Z'
+publishDate: '2020-08-25T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['8']
 
 # Publication name and optional abbreviated publication name.
-publication: '2019 8th Mediterranean Conference on Embedded Computing'
-publication_short: 'MECO'
+publication: ''
+publication_short: ''
 
 tags:
 #   - Source Themes
@@ -28,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8760141
+url_pdf: https://dspace.mit.edu/handle/1721.1/129253
 url_code: ''
 url_dataset: ''
 url_poster: ''
