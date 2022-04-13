@@ -10,7 +10,7 @@ role: PhD Candidate, University of Porto
 
 # Organizations/Affiliations
 organizations:
-  - name: MIT Department of Electrical Engineering & Computer Science
+  - name: ''
     url: ''
 
 social:
