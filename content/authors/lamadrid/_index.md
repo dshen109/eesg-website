@@ -10,7 +10,7 @@ role: Associate Professor, Lehigh University
 
 # Organizations/Affiliations
 organizations:
-  - name: Lehigh University
+  - name: ''
     url: ''
 
 social:

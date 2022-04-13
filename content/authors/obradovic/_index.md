@@ -10,7 +10,7 @@ role: PhD Candidate, KTH Royal Institute of Technology
 
 # Organizations/Affiliations
 organizations:
-  - name: KTH Royal Institute of Technology
+  - name: ''
     url: ''
 
 social:
