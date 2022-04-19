@@ -3,6 +3,8 @@ title: Marija Ilic elected to the National Academy of Engineering (NAE)
 date: 2021-02-11
 image:
   focal_point: 'middle'
+profile: false
+reading_time: false
 ---
 
 <!--more-->
