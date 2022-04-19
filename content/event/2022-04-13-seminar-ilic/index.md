@@ -15,8 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-04-13T00:00:00:00-04:00'
 
-authors:
-    - ilic
+authors: []
 tags:
     - webinar
 
@@ -41,6 +40,8 @@ slides: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
+profile: false
 ---
 
 [Register on Zoom](https://us02web.zoom.us/webinar/register/WN_CBsJ5CIPTpagHT-9d1ouXQ)
