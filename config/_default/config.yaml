@@ -6,6 +6,31 @@
 title: Electrical Energy Systems Group # Website name
 baseURL: 'https://eesg.mit.edu/' # Website URL
 
+###############
+## Page options
+###############
+
+cascade:
+  # Blog post options
+  - _target:
+      path: /post/**
+    reading_time: false
+    profile: false
+  # Project post options
+  - _target:
+      path: /project/**
+    show_date: false
+    profile: false
+  # Event post options
+  - _target:
+      path: /event/**
+    profile: false
+    all_day: false
+  - _target:
+      path: /publication/**
+    profile: false
+    share: false
+
 ############################
 ## LANGUAGE
 ############################
