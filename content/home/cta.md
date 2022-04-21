@@ -24,5 +24,6 @@ design:
   .topright { position: absolute; top: 5px; right: 5px; text-align: right; }
   .bottomright { position: absolute; bottom: -100px; right: 0px; text-align: right; font-size: x-small; }
 </style>
-  <div class="bottomright">Image © Anders Lagerås / CC BY-SA 3.0</div>
+<div class="bottomright">Image © Anders Lagerås /
+    <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
 </div>

@@ -36,4 +36,6 @@ We are currently part of MIT's Laboratory for Information and Decision Systems (
 <br>
 <br>
 
-<div style="text-align: left; font-size: x-small"> Image © Hans Hillewaert / CC BY-SA 3.0 </div>
+<div style="text-align: left; font-size: x-small"> Image © Hans Hillewaert /
+  <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+</div>
