@@ -8,7 +8,6 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Electrical Energy Systems Group
-# hero_media: power-lines-water.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
@@ -33,3 +32,8 @@ electric energy system. Our mission is to enable reliable, resilient,
 sustainable, and cost-effective electric energy service at scale.
 
 We are currently part of MIT's Laboratory for Information and Decision Systems (LIDS). Previously, our group was based at [Carnegie Mellon University](http://www.eesg.ece.cmu.edu/index.php)
+
+<br>
+<br>
+
+<div style="text-align: left; font-size: x-small"> Image © Hans Hillewaert / CC BY-SA 3.0 </div>

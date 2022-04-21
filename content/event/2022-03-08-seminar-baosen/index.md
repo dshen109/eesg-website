@@ -15,8 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-03-08T16:00:00Z'
 
-authors:
-    - Baosen Zhang
+authors: []
 tags:
     - seminar
     - Changing Electric Energy Systems
@@ -41,7 +40,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: []
 ---
 
 {{< youtube gUOFTedC9Cc >}}

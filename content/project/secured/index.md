@@ -7,7 +7,6 @@ authors:
   - jaddivada
 tags:
   - dymonds
-  - complete
 categories: []
 date: 2020-01-01T12:52:43-04:00
 
