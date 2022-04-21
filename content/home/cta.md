@@ -16,7 +16,7 @@ design:
 ---
 <br>
 
-{{% cta cta_link="./people/" cta_text="Meet our team! →" %}}
+{{% cta cta_link="./people/" cta_text="Meet our group members! →" %}}
 <br>
 
 <style>
