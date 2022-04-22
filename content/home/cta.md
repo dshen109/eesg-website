@@ -12,7 +12,6 @@ design:
     image_parallax: true
     text_color_light: true
     image_position: center
-    text:
 ---
 <br>
 
