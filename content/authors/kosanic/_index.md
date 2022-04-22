@@ -67,3 +67,10 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
+Miroslav Kosanic received his BSc and MSc in Electrical engineering and
+Computer science from the Faculty of Electrical engineering at the University
+of Belgrade, Serbia. His master thesis was the application of reinforcement
+learning to power system operation. That made him realize the non-existence of
+a suitable benchmark for those algorithms. Currently, he’s developing a
+simulator that could be a first step for such a benchmark.
+

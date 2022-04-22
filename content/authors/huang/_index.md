@@ -40,3 +40,18 @@ highlight_name: true
 user_groups:
   - Postdocs
 ---
+Tong Huang is a postdoctoral associate at the Massachusetts Institute of
+Technology (MIT). Before joining MIT, he was a postdoctoral researcher at Texas
+A&M University in 2021. He received his B.E. degree in Electrical Engineering
+from North China Electric Power University in 2013 and an M.S. and a Ph.D.
+degree in Electrical Engineering from Texas A&M University in 2017 and 2021,
+respectively. He was a Visiting Student with the Laboratory for Information and
+Decision Systems, MIT, in 2018. His industry experience includes an internship
+with ISO-New England in 2018 and an internship with Mitsubishi Electric
+Research Laboratories in 2019. He received the Best Paper Award at the 2020
+IEEE PES General Meeting, the Best Paper Award at the 54-th Hawaii
+International Conference on System Sciences, Thomas W. Powell’62 and Powell
+Industries Inc. Fellowship, and Texas A&M Graduate Teaching Fellowship. His
+research focuses on data analytics, cyber security, and modeling and control of
+power grids with renewables and energy storage.
+

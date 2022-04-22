@@ -40,3 +40,16 @@ highlight_name: true
 user_groups:
   - Recent Grad Students
 ---
+
+Rupamathi Jaddivada is a Post Doctoral Research Asociate at the Massachusetts
+Institute of Technology. She received a B. Tech degree in Electrical and
+Electronics Engineering from Jawaharlal Nehru Technological University, India
+in 2014 and an S.M. degree in Electrical Engineering and Computer Science from
+Carnegie Mellon University in 2015. She interned at the New Electricity
+Transmission Software Solutions Inc., in the summer of 2018, working on
+developing software modules for efficiency enhancements in power grid
+operations. Ms. Jaddivada was a recipient of a gold medal at the Indian
+National mathematics examination, Srinivasa Ramanujan Mathematics competition
+(SRMC) in 2014. Her research interests include modeling, control and numerical
+simulations of complex dynamical systems, in particular for electric power
+system applications.
