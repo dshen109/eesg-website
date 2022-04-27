@@ -43,3 +43,14 @@ highlight_name: true
 user_groups:
   - Grad Students
 ---
+Daniel Shen received his bachelor’s degree in mechanical engineering from the
+University of California, Berkeley. Prior to starting a PhD in EECS at MIT,
+Daniel worked as a research intern at the National Renewable Energy Lab, where
+he developed thermal models of commercial buildings to improve technoeconomic
+optimization of thermostatically controlled loads. Previously, he also worked
+on load flexibility in commercial refrigeration systems as a product engineer
+at Axiom Cloud. Daniel’s research interests include grid flexibility,
+distributed energy resources, and consumer participation in demand side
+response. Outside of work, he likes to watercolor paint, press wildflowers, and
+improve his mediocre guitar skills.
+

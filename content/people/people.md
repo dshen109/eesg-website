@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 10
 
 title: Group Members
 subtitle:
@@ -16,13 +16,13 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
+    - Principal Investigator
     - Researchers
     - Postdocs
     - Grad Students
     - Visitors
     - Recent Grad Students
-    - Alumni
+    # - Alumni
 design:
   show_interests: false
   show_role: true
