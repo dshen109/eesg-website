@@ -43,6 +43,8 @@ url_video: ""
 slides: ""
 ---
 
+**Project Objective** 
+
 This project will develop and demonstrate an active defense mechanism of
 cyber-resilient PV distribution system operation using a dynamic watermarking
 technique to monitor cybersecurity. The technique involves injecting a probe
@@ -54,3 +56,14 @@ Illinois Institute of Technology (IIT). The MIT team will develop corrective
 control algorithms to mitigate the negative impact of cyber attacks.
 
 **Funding Agency:** US Department of Energy
+
+**Publications**
+
+D. Wu, P. Bharadwaj, P. Rowles, and M. Ilic, “Cyber-Physical Secure Observer-Based Corrective Control under Compromised Sensor Measurements,” 2022 American Control Conference.
+
+**Presentations**
+
+D. Wu, “Cyber-Physical Secure Observer-Based Corrective Control under Compromised Sensor Measurements,” American Control Conference (ACC) June, 2022, Atlanta, Georgia, USA.
+
+
+
