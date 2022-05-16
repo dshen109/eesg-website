@@ -36,10 +36,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-# Your project description goes here. The text will be displayed via markdown.
+<!-- # Your project description goes here. The text will be displayed via markdown. -->
 
 The goal of the Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS) is to conduct research and develop innovative cybersecurity technologies, tools, and methodologies that advance the energy sector’s ability to survive cyber incidents while sustaining critical functions.
 
 
 
-**Funding Agency:** Project funder
+**Funding Agency:** SEEDS
