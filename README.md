@@ -3,13 +3,12 @@
 
 ## Local Build Instructions
 
-Install hugo from the source binaries (especially on Ubuntu, since installing via `apt-get` will give you an older version).
+Install hugo from the source binaries (especially on Ubuntu, since installing via `apt-get` will give you an older version). Make sure you install the extended version. You
+will also need to install go: `sudo snap install --classic go`
 
-Run
+Then run `hugo server` to preview the pages.
 
-```bash
-hugo server
-```
+[Hugo install instructions](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 
 ## Website Update Instructions
 
