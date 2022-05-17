@@ -12,7 +12,7 @@ role: Senior Research Scientist
 organizations:
   - name: MIT Laboratory for Information and Decision Systems
     url: 'https://lids.mit.edu'
-  - name: Energy Systems Group 73, Lincoln Laboratory
+  - name: Energy Systems Group 47, Lincoln Laboratory
   - name: New Electricity Transmission Software Solutions (NETSS) Inc.
   - name: Professor Emerita of Electrical & Computer Engineering; Engineering & Public Policy, Carnegie Mellon University
 
