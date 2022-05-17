@@ -3,9 +3,9 @@
 title: SEEDS
 # the authors should correspond to folder names in content/authors
 authors:
-  - Ana Jevtic
-  - Miroslav Kosanic
-  - Marija Ilic
+  - jevtic
+  - kosanic
+  - ilic
 # add 'ongoing' if the project is ongoing
 tags:
   - finished
