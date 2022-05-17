@@ -1,5 +1,5 @@
 ---
-title: 'Publication Title'
+title: 'Measurement-based Validation of Energy-Space Modelling in Multi-Energy Systems'
 # For authors who have a profile on the website, use their lowercase last name
 # (what their folder is named in `content/authors`)
 authors:
@@ -9,7 +9,7 @@ authors:
   - Min Zhang
   - ilic
 date: '11 April 2021'
-doi: ''
+doi: '10.1109/NAPS50074.2021.9449675'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-07-15T00:00:00Z'
@@ -21,7 +21,7 @@ publishDate: '2019-07-15T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Measurement-based Validation of Energy-Space Modelling in Multi-Energy Systems'
+publication: 'North American Power Symposium'
 publication_short: 'NAPS'
 
 tags:
