@@ -17,7 +17,7 @@ publishDate: '2022-05-15T00:00:00Z'
 publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Implementation of cybersecure observers and control in microgrids; energy dynamics based approach'
+publication: ''
 publication_short: ''
 
 tags:
