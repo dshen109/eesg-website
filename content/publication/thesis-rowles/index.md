@@ -4,7 +4,7 @@ title: 'Implementation of cybersecure observers and control in microgrids; energ
 # (what their folder is named in `content/authors`)
 authors:
   - prowles
-date: '2022'
+date: '2022-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).

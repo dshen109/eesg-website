@@ -1,30 +1,24 @@
 ---
-title: 'Enabling Secure Peer-to-Peer Energy Transactions Through Dynamic Watermarking in Electric Distribution Grids'
+title: "Toward a unified multi-layered modeling and simulation paradigm for electric energy systems"
 # For authors who have a profile on the website, use their lowercase last name
 # (what their folder is named in `content/authors`)
 authors:
-  - huang
-  - Jorge Ramos-Ruiz
-  - Woo-Hyun Ko
-  - Jaewon Kim
-  - Prasad Enjeti
-  - P.R. Kumar
-  - Le Xie
-date: '2021'
-doi: '10.1109/TSG.2021.3117889'
+  - ilic
+date: '2017-09-17'
+doi: '10.1109/NAPS.2017.8107167'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-09-15T00:00:00Z'
+publishDate: '2022-05-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'IEEE Electrification Magazine'
-publication_short: ''
+publication: '2017 North American Power Symposium'
+publication_short: 'NAPS'
 
 tags:
 #   - Source Themes
@@ -47,7 +41,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [watermarking]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

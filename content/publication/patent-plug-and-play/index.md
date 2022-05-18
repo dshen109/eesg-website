@@ -1,39 +1,29 @@
 ---
-title: 'Enabling Secure Peer-to-Peer Energy Transactions Through Dynamic Watermarking in Electric Distribution Grids'
-# For authors who have a profile on the website, use their lowercase last name
-# (what their folder is named in `content/authors`)
+title: 'U.S. Patent 2018/0314217 A1: Plug-and-Play Reconfigurable Electric Power Microgrids'
 authors:
-  - huang
-  - Jorge Ramos-Ruiz
-  - Woo-Hyun Ko
-  - Jaewon Kim
-  - Prasad Enjeti
-  - P.R. Kumar
-  - Le Xie
-date: '2021'
-doi: '10.1109/TSG.2021.3117889'
+  - ilic
+  - miao
+  - jaddivada
+date: '2018-11-01'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-09-15T00:00:00Z'
+publishDate: '2019-06-06T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['8']
 
 # Publication name and optional abbreviated publication name.
-publication: 'IEEE Electrification Magazine'
+publication: ''
 publication_short: ''
 
 tags:
-#   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: ''
+url_pdf: https://patentimages.storage.googleapis.com/e8/4c/32/fb46f987dde60c/US20180314217A1.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +37,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [watermarking]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

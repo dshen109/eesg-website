@@ -7,7 +7,7 @@ authors:
   - bharadwaj
   - prowles
   - ilic
-date: 'to appear'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -20,17 +20,13 @@ publishDate: '2022-05-15T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Cyber-Physical Secure Observer-Based Corrective Control under Compromised Sensor Measurements'
-publication_short: 'ACM'
+publication: ''
+publication_short: ''
 
 tags:
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://ieeexplore.ieee.org/document/9449675?arnumber=9449675&tag=1'
 url_code: ''
 url_dataset: ''
 url_poster: ''
