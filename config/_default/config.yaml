@@ -30,6 +30,9 @@ cascade:
       path: /publication/**
     profile: false
     share: false
+  - _target:
+      path: /project/**
+    share: false
 
 ############################
 ## LANGUAGE
