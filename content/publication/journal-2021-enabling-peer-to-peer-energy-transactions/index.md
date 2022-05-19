@@ -23,8 +23,8 @@ publishDate: '2021-09-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Enabling Secure Peer-to-Peer Energy Transactions Through Dynamic Watermarking in Electric Distribution Grids'
-publication_short: 'IEEE Electrification Magazine'
+publication: 'IEEE Electrification Magazine'
+publication_short: ''
 
 tags:
 #   - Source Themes
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://ieeexplore.ieee.org/document/9528341'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

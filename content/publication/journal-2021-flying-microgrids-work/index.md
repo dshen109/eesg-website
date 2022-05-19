@@ -1,16 +1,13 @@
 ---
-title: 'A Neural Lyapunov Approach to Transient Stability Assessment of Power Electronics-Interfaced Networked Microgrids'
-# For authors who have a profile on the website, use their lowercase last name
-# (what their folder is named in `content/authors`)
+title: 'Making flying microgrids work in future aircrafts and aerospace vehicles'
 authors:
-  - huang
-  - Sicun Gao
-  - Le Xie
-date: '2022'
-doi: '10.1109/TSG.2021.3117889'
+  - ilic
+  - jaddivada
+date: '2021-10-23'
+doi: '10.1016/j.arcontrol.2021.10.012'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-01-15T00:00:00Z'
+publishDate: '2013-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,16 +16,14 @@ publishDate: '2022-01-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'IEEE Transactions on Smart Grid'
-publication_short: 'IEEE Transactions on Smart Grid'
+publication: 'Annual Reviews In Control'
+publication_short: ''
 
 tags:
 #   - Source Themes
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -43,7 +38,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [watermarking]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -13,7 +13,7 @@ design:
   columns: '2'
   background:
     image: wind-turbines-wide-water-cropped.jpg
-    image_darken: 0.4
+    image_darken: 0.8
     image_parallax: true
     image_position: bottom right
     text_color_light: true

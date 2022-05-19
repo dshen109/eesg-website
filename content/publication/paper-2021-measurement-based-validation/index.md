@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://ieeexplore.ieee.org/document/9449675?arnumber=9449675&tag=1'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

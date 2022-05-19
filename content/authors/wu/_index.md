@@ -22,7 +22,7 @@ social:
 #     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=OCZCWJcAAAAJ&hl=zh-CN
+    link: https://scholar.google.com/citations?hl=en&user=OCZCWJcAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/dshen109
