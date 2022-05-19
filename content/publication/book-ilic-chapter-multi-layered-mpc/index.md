@@ -1,11 +1,12 @@
 ---
-title: 'Book chapter: Unified Modeling for Emulating Electric Energy Systems: Toward Digital Twin That Might Work'
+title: 'Unified Modeling for Emulating Electric Energy Systems: Toward Digital Twin That Might Work'
 authors:
   - ilic
   - jaddivada
-  - Assefaw Gebremedhin
-date: '2020-08-31'
-doi: ''
+  - miao
+  - Nipun Popli
+date: '2018-09-01'
+doi: '10.1007/978-3-319-77489-3_26'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2013-01-01T00:00:00Z'
@@ -25,7 +26,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: 'https://scads.eecs.wsu.edu/wp-content/uploads/2021/05/UnifiedModelingEES.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -39,8 +40,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - secured
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
