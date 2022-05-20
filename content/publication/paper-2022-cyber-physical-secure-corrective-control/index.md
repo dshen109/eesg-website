@@ -20,8 +20,8 @@ publishDate: '2022-05-15T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
+publication: '2022 American Control Conference'
+publication_short: 'ACC'
 
 tags:
 #   - Source Themes
