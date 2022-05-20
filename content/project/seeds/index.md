@@ -1,6 +1,6 @@
 ---
 
-title: SEEDS
+title: Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)
 # the authors should correspond to folder names in content/authors
 authors:
   - jevtic
@@ -13,7 +13,7 @@ tags:
 date: 2018-11-20T12:52:43-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://seeds.uapower.group/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -38,8 +38,9 @@ slides: ""
 ---
 <!-- # Your project description goes here. The text will be displayed via markdown. -->
 
-The goal of the Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS) is to conduct research and develop innovative cybersecurity technologies, tools, and methodologies that advance the energy sector’s ability to survive cyber incidents while sustaining critical functions.
-
-
+The goal of the Cybersecurity Center for Secure Evolvable Energy Delivery
+Systems (SEEDS) is to conduct research and develop innovative cybersecurity
+technologies, tools, and methodologies that advance the energy sector’s ability
+to survive cyber incidents while sustaining critical functions.
 
 **Funding Agency:** SEEDS
