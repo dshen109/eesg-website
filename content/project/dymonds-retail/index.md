@@ -1,5 +1,4 @@
 ---
-
 title: Dynamic Monitoring and Decision Systems (DyMonDS) framework for IT-enabled engineering of retail-level energy services (RES)
 summary: ""
 authors:
@@ -7,9 +6,8 @@ authors:
 
 tags:
   - dymonds
-categories:
-  # - security
-date: 2020-01-01T12:52:43-04:00
+  - ongoing
+date: '2020-01-01T12:52:43-04:00'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
