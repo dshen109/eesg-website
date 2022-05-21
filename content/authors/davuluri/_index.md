@@ -68,3 +68,4 @@ user_groups:
   - Recent Grad Students
 ---
 
+Graduated with M.S. in the Technology and Policy Program, Dept. of IDSS, May 2019
