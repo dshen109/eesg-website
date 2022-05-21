@@ -1,13 +1,10 @@
 ---
-title: 'Seminar: Brian Patterson'
+title: 'The Grid of Grids: Doing for Electricity What the Internet Did for Information'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: 'The Grid of Grids: Doing for Electricity What the Internet Did for Information'
-abstract: 'Over one sextillion watt hours of electricity is consumed around the world annually – mostly produced and distributed on demand using 100-year-old technology. There are less than 10,000 central power plants producing most of this electricity.  A primary reliance on this centralized production has left us with increasingly troublesome issues of significant environmental impact, transmission losses, geographic social and economic inequities, and the increasing vulnerability of exposed and unsecured lines to natural and man-caused disaster damage. In addition, historically, most power systems simply feed “dumb” loads from hard wired fixed physical grids. But an increasing focus on clean, fault tolerant, resilient, economical, and efficient energy use is leading to us to consider transforming these systems to significantly more interactive ones with the capability of intelligent load management, storage, decentralized mesh wiring topologies and the employment of an increasingly diverse set of combined clean generation sources.
-
-This presentation discusses an expanded role for interconnected distributed renewable energy microgrids in new mesh networks, based on hybrid use of AC and DC power. It is posited that connecting power creation to power consumption in a network of massively distributed microgrids will yield the analogous capability of an ‘Enernet’ or electric energy network to power fixed and mobile loads in the 21st century. The presentation will also introduce the concept of a transactive energy framework used to enable a combination of economic
-and control techniques to manage power flows within the network to optimize operations and commerce within a multi-tiered arrangement of both public and private microgrids and macrogrids in a Grid-of-Grids topology.'
+summary: 'Brian Patterson'
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,9 +18,10 @@ publishDate: '2022-03-09T16:00:00Z'
 tags:
     - seminar
     - Changing Electric Energy Systems
+    - 2022 spring
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 url_code: ''
 url_pdf: ''
@@ -49,7 +47,37 @@ profile: false
 
 {{< youtube tmm4jCkyquU >}}
 
-**Bio:**
+<br>
+
+## Abstract
+
+Over one sextillion watt hours of electricity is consumed around the world
+annually - mostly produced and distributed on demand using 100-year-old
+technology. There are less than 10,000 central power plants producing most of
+this electricity.  A primary reliance on this centralized production has left
+us with increasingly troublesome issues of significant environmental impact,
+transmission losses, geographic social and economic inequities, and the
+increasing vulnerability of exposed and unsecured lines to natural and
+man-caused disaster damage. In addition, historically, most power systems
+simply feed \"dumb\" loads from hard wired fixed physical grids. But an
+increasing focus on clean, fault tolerant, resilient, economical, and efficient
+energy use is leading to us to consider transforming these systems to
+significantly more interactive ones with the capability of intelligent load
+management, storage, decentralized mesh wiring topologies and the employment of
+an increasingly diverse set of combined clean generation sources.
+
+This presentation discusses an expanded role for interconnected distributed
+renewable energy microgrids in new mesh networks, based on hybrid use of AC and
+DC power. It is posited that connecting power creation to power consumption in
+a network of massively distributed microgrids will yield the analogous
+capability of an 'Enernet' or electric energy network to power fixed and mobile
+loads in the 21st century. The presentation will also introduce the concept of
+a transactive energy framework used to enable a combination of economic and
+control techniques to manage power flows within the network to optimize
+operations and commerce within a multi-tiered arrangement of both public and
+private microgrids and macrogrids in a Grid-of-Grids topology.
+
+## Bio
 
 Brian T. Patterson is Chairman and co-founder of the EMerge Alliance. He is a
 40 plus year veteran of the electrical and electronics industry, has an

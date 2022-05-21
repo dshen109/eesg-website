@@ -1,10 +1,10 @@
 ---
-title: 'Seminar: Prof. Baosen Zhang'
+title: 'Safe and Efficient Reinforcement Learning for Energy Systems'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: Safe and Efficient Reinforcement Learning for Energy Systems
-abstract: 'Inverter-based resources such as solar and storage provide us with more flexibility in the control of power systems. Through their power electronic interfaces, complex control functions can be implemented to quickly respond to changes in the system. Recently, reinforcement learning has emerged as a popular method to find these nonlinear controllers.  The key challenge with a learning-based approach is that stability and safety constraints are difficult to enforce on the learned controllers. In this talk, we show how model-based control theory can be used as useful constraints on reinforcement learning, allowing us to explicitly engineer the structure of neural network controllers such that they guarantee system stability.  The resulting controllers only use local information and outperform conventional droop as well as strategies learned purely by using reinforcement learning.'
+summary: Prof. Baosen Zhang
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,6 +19,7 @@ authors: []
 tags:
     - seminar
     - Changing Electric Energy Systems
+    - 2022 spring
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -44,3 +45,21 @@ projects: []
 ---
 
 {{< youtube gUOFTedC9Cc >}}
+
+
+<br>
+
+## Abstract
+
+Inverter-based resources such as solar and storage provide us with more
+flexibility in the control of power systems. Through their power electronic
+interfaces, complex control functions can be implemented to quickly respond to
+changes in the system. Recently, reinforcement learning has emerged as a
+popular method to find these nonlinear controllers.  The key challenge with a
+learning-based approach is that stability and safety constraints are difficult
+to enforce on the learned controllers. In this talk, we show how model-based
+control theory can be used as useful constraints on reinforcement learning,
+allowing us to explicitly engineer the structure of neural network controllers
+such that they guarantee system stability.  The resulting controllers only use
+local information and outperform conventional droop as well as strategies
+learned purely by using reinforcement learning.

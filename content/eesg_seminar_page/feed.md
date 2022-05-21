@@ -1,25 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 headless: true
 weight: 20
 
-title: Latest News & Events
+title:
 subtitle:
 
 content:
-  count: 5
+#   page_type: eesg_seminar
   filters:
     folders:
-      - post
-      - event
+      - eesg_seminar
     author: ''
     category: ''
     exclude_featured: false
-    publication_type: ''
     tag: ''
   offset: 0
   order: desc
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: 2022 Spring
+      tag: '2022 spring'
+    - name: 2021 Fall
+      tag: 2021 fall
 design:
   view: compact
   columns: '2'

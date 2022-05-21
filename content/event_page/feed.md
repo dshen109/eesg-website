@@ -4,14 +4,14 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News & Events
+title: Recent & Upcoming Events
 subtitle:
 
 content:
   count: 5
   filters:
     folders:
-      - post
+      - eesg_seminar
       - event
     author: ''
     category: ''
