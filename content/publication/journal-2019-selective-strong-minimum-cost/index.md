@@ -1,25 +1,29 @@
 ---
-title: 'U.S. Patent 10,755,295: Adaptive load management: a system for incorporating customer electrical demand information for demand and supply side energy management'
+title: "Selective strong structural minimum-cost resilient co-design for regular descriptor linear systems
+"
+# For authors who have a profile on the website, use their lowercase last name
+# (what their folder is named in `content/authors`)
 authors:
-  - ilic
-  - jaddivada
-  - miao
   - Nipun Popli
-date: '2020'
-doi: ''
+  - Sergio Pequito
+  - Soummya Kar
+  - A. Pedro Aguiar
+  - ilic
+date: '2019-04-20'
+doi: 'https://doi.org/10.1016/j.automatica.2018.12.032'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-09-25T00:00:00Z'
+publishDate: '2019-04-20T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['6']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
+publication: 'Automatica'
+publication_short: 'Automatica'
 
 tags:
 #   - Source Themes
@@ -28,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-77489-3_26
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -36,7 +40,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
