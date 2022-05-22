@@ -1,5 +1,5 @@
 ---
-title: "Toward a unified multi-layered modeling and simulation paradigm for electric energy systemsEnhanced Automatic Generation Control (E-AGC) for Electric Power Systems with Large Intermittent Renewable Energy Sources
+title: "NIST Transactive Energy Modeling and Simulation Challenge Phase II Final Report
 "
 # For authors who have a profile on the website, use their lowercase last name
 # (what their folder is named in `content/authors`)
