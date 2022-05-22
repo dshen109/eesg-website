@@ -1,25 +1,28 @@
 ---
-title: 'U.S. Patent 10,755,295: Adaptive load management: a system for incorporating customer electrical demand information for demand and supply side energy management'
+title: "Distribution Grid Admittance Estimation with Limited Non-Synchronized Measurements
+"
+# For authors who have a profile on the website, use their lowercase last name
+# (what their folder is named in `content/authors`)
 authors:
-  - ilic
-  - jaddivada
   - miao
-  - Nipun Popli
-date: '2020'
-doi: ''
+  - ilic
+  - Xiaofan Wu
+  - Ulrich Munz
+date: '2019-08-04'
+doi: 'https://doi.org/10.1109/PESGM40551.2019.8973562'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-09-25T00:00:00Z'
+publishDate: '2019-08-04T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['6']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
+publication: 'IEEE PES General Meeting 2019'
+publication_short: 'PESGM'
 
 tags:
 #   - Source Themes
@@ -28,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-77489-3_26
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -36,7 +39,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
