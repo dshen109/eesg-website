@@ -21,17 +21,21 @@ cascade:
       path: /project/**
     show_date: false
     profile: false
+    share: false
   # Event post options
   - _target:
       path: /event/**
     profile: false
     all_day: false
+    share: false
   - _target:
       path: /publication/**
     profile: false
     share: false
   - _target:
-      path: /project/**
+      path: /eesg_seminar/**
+    profile: false
+    all_day: false
     share: false
 
 ############################

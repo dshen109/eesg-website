@@ -1,6 +1,6 @@
 ---
 
-title: SEEDS
+title: Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS)
 # the authors should correspond to folder names in content/authors
 authors:
   - jevtic
@@ -38,8 +38,9 @@ slides: ""
 ---
 <!-- # Your project description goes here. The text will be displayed via markdown. -->
 
-The goal of the Cybersecurity Center for Secure Evolvable Energy Delivery Systems (SEEDS) is to conduct research and develop innovative cybersecurity technologies, tools, and methodologies that advance the energy sector’s ability to survive cyber incidents while sustaining critical functions.
-
-
+The goal of the Cybersecurity Center for Secure Evolvable Energy Delivery
+Systems (SEEDS) is to conduct research and develop innovative cybersecurity
+technologies, tools, and methodologies that advance the energy sector’s ability
+to survive cyber incidents while sustaining critical functions.
 
 **Funding Agency:** SEEDS

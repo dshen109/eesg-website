@@ -30,7 +30,6 @@ today's architectures that support flexible, seamless end-to-end participation
 of the large number of grid users.
 
 
-
 [Accessibility](https://accessibility.mit.edu/)
 
 </font>

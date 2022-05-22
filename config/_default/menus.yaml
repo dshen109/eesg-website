@@ -29,8 +29,11 @@ main:
   #   url: projects
   #   weight: 40
   - name: Events
-    url: event
+    url: event_page
     weight: 50
+  - name: Seminar Series
+    url: eesg_seminar_page
+    weight: 60
   # - name: Publications
   #   url: publication
   #   weight: 60

@@ -20,7 +20,6 @@ content:
     tag: ''
   offset: 0
   order: desc
-  # page_type: post
 design:
   view: compact
   columns: '2'

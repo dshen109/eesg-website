@@ -27,8 +27,8 @@ content:
       tag: '*'
     - name: Ongoing
       tag: ongoing
-    - name: Security
-      tag: security
+    # - name: Security
+    #   tag: security
     # - name: Deep Learning
     #   tag: Deep Learning
     # - name: Other
