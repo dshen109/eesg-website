@@ -15,7 +15,7 @@ main:
     weight: 40
   - name: Projects
     parent: research
-    url: projects
+    url: project_page
     weight: 10
   - name: Publications
     parent: research
@@ -23,11 +23,8 @@ main:
     weight: 20
   - name: Presentations
     parent: research
-    url: presentation
+    url: presentation_page
     weight: 30
-  # - name: Projects
-  #   url: projects
-  #   weight: 40
   - name: Events
     url: event_page
     weight: 50

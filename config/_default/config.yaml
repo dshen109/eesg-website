@@ -37,6 +37,10 @@ cascade:
     profile: false
     all_day: false
     share: false
+  - _target:
+      path: /presentation/**
+    profile: false
+    share: false
 
 ############################
 ## LANGUAGE
