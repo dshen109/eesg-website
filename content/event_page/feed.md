@@ -11,8 +11,8 @@ content:
   count: 5
   filters:
     folders:
-      - event
       - eesg_seminar
+      - event
     author: ''
     category: ''
     exclude_featured: false
