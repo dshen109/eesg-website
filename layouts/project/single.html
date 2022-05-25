@@ -22,8 +22,8 @@
             {{ if ge $count 1 }}
             <h2>{{ (i18n "posts") }}</h2>
             {{ range $index, $item := $items }}
-            {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.post_view | default
-            "compact") "index" $index) }}
+            <h4>{{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.post_view | default
+            "compact") "index" $index) }}</h4>
             {{end}}
             {{ end }}
 
@@ -33,8 +33,8 @@
             {{ if ge $pubs_len 1 }}
             <h2>{{ (i18n "publications") }}</h2>
             {{ range $index, $item := $items }}
-            {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.publication_view |
-            default "compact") "index" $index) }}
+            <h4>{{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.publication_view |
+            default "compact") "index" $index) }}</h4>
             {{end}}
             {{ end }}
 
@@ -44,8 +44,8 @@
             {{ if ge $talks_len 1 }}
             <h2>{{ (i18n "talks") }}</h2>
             {{ range $index, $item := $items }}
-            {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.talk_view | default
-            "compact") "index" $index) }}
+            <h4>{{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.talk_view | default
+            "compact") "index" $index) }}</h4>
             {{end}}
             {{ end }}
 
@@ -55,8 +55,8 @@
             {{ if ge $presentation_len 1 }}
             <h2>{{ (i18n "presentations") }}</h2>
             {{ range $index, $item := $items }}
-            {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.presentation_view | default
-            "compact") "index" $index) }}
+            <h4>{{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.presentation_view | default
+            "compact") "index" $index) }}</h4>
             {{end}}
             {{ end }}
         </div>
