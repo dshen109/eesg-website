@@ -1,0 +1,29 @@
+{{- define "main" -}}
+
+<article class="article">
+
+  {{ partial "page_header" . }}
+
+  <div class="article-container">
+
+    <div class="row">
+      <div class="col-md-1"></div>
+        <div class="col-md-10">
+          <div class="row">
+            <div class="col-12 col-md-3 pub-row-heading">Venue</div>
+            <div class="col-12 col-md-9">{{ .Params.publication | markdownify }}</div>
+          </div>
+        </div>
+      <div class="col-md-1"></div>
+    </div>
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</article>
+
+{{- end -}}

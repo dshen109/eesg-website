@@ -6,11 +6,11 @@ title: Sruthi Davuluri
 superuser: false
 
 # Role/position
-role: 
+role: M.S. (IDSS), 2019
 
 # Organizations/Affiliations
 organizations:
-  - name: MIT Department of Electrical Engineering & Computer Science
+  - name: MIT Institute for Data, Systems, and Society
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

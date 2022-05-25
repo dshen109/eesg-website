@@ -6,7 +6,7 @@ title: Janak Agarwal
 superuser: false
 
 # Role/position
-role: 
+role: MEng, 2020
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ social:
 #     link: https://twitter.com/GeorgeCushen
   # - icon: google-scholar
   #   icon_pack: ai
-  #   link: 
+  #   link:
 #   - icon: github
 #     icon_pack: fab
 #     link: https://github.com/dshen109
