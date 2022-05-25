@@ -6,7 +6,7 @@ title: Michelle Lauer
 superuser: false
 
 # Role/position
-role: 
+role: MEng, 2019
 
 # Organizations/Affiliations
 organizations:

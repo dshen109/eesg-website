@@ -6,7 +6,7 @@ title: Ana Jevtic
 superuser: false
 
 # Role/position
-role:
+role: Ph.D., 2020
 
 # Organizations/Affiliations
 organizations:
