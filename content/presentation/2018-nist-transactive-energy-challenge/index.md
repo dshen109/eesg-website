@@ -1,37 +1,35 @@
 ---
-title: 'Cyber-Physical Secure Observer-Based Corrective Control under Compromised Sensor Measurements'
-# For authors who have a profile on the website, use their lowercase last name
-# (what their folder is named in `content/authors`)
+title: 'NIST Transactive Energy (TE) Challenge - TE System Simulation Results for DER Integration on the Distribution Grid'
 authors:
-  - wu
-  - bharadwaj
-  - prowles
   - ilic
-date: '2022-06-10'
+  - jaddivada
+date: '2018-02-19'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-15T00:00:00Z'
+publishDate: '2013-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
+# 7 = Thesis; 8 = Patent; 9 = Presentation
+publication_types: ['9']
 
 # Publication name and optional abbreviated publication name.
-publication: '2022 American Control Conference'
-publication_short: 'ACC'
+publication: 'IEEE Innovative Smart Grid Technology (ISGT) North America'
+publication_short: ''
 
 tags:
 #   - Source Themes
 featured: false
 
+external_link: 'https://resourcecenter.ieee-pes.org/conferences/isgt-na/PESISGTNA20180024.html'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://resourcecenter.ieee-pes.org/conferences/isgt-na/PESISGTNA20180024.html'
 url_source: ''
 url_video: ''
 
@@ -41,7 +39,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
- - watermarking
+  - secured
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

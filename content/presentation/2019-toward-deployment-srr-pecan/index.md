@@ -23,6 +23,7 @@ tags:
 #   - Source Themes
 featured: false
 
+external_link: 'https://arpa-e.energy.gov/sites/default/files/MIT%20LL%20NODES%20Annual%20Meeting%202019.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
