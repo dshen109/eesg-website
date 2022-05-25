@@ -17,7 +17,6 @@ content:
     category: ''
     exclude_featured: false
     publication_type: ''
-    tag: ''
   offset: 0
   order: desc
 design:

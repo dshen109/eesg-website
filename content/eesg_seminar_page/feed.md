@@ -27,5 +27,5 @@ content:
       tag: 2021 fall
 design:
   view: compact
-  columns: '2'
+  columns: '1'
 ---

@@ -10,6 +10,7 @@ design:
 ---
 
 
+<font size="3">
 
 This series of seminars is motivated by the need to hear from leaders in
 academia, government, and industry about major problems and opportunities in
@@ -29,5 +30,6 @@ today's architectures that support flexible, seamless end-to-end participation
 of the large number of grid users.
 
 
-
 [Accessibility](https://accessibility.mit.edu/)
+
+</font>
