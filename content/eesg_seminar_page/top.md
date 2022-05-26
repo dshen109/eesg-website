@@ -1,6 +1,6 @@
 ---
 title: 'Changing Electric Energy Systems: Challenges and Opportunities'
-subtitle: 'Co-organizers: [Marija Ilic](ilic@mit.edu) and [Dan Wu](danwumit@mit.edu)'
+subtitle: 'Co-organizers: [Marija Ilic](mailto:ilic@mit.edu) and [Dan Wu](mailto:danwumit@mit.edu)'
 widget: blank
 headless: true
 weight: 10
