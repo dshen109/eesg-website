@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Danilo Obradovic
+weight: 60
 
 # Is this the primary user of the site?
 superuser: false

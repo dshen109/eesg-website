@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: MEng, 2020
+date: 2020
 
 # Organizations/Affiliations
 organizations:
