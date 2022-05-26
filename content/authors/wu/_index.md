@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Dan Wu
+weight: 40
 
 # Is this the primary user of the site?
 superuser: false

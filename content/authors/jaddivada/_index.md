@@ -6,7 +6,8 @@ title: Rupamathi Jaddivada
 superuser: false
 
 # Role/position
-role: Ph.D., 2020
+role: PhD, 2020
+date: 2020
 
 # Organizations/Affiliations
 organizations:

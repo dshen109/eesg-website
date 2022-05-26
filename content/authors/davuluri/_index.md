@@ -6,7 +6,8 @@ title: Sruthi Davuluri
 superuser: false
 
 # Role/position
-role: M.S. (IDSS), 2019
+role: MS, 2019
+date: 2019
 
 # Organizations/Affiliations
 organizations:
