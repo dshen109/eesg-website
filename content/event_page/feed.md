@@ -8,7 +8,7 @@ title: Recent & Upcoming Events
 subtitle:
 
 content:
-  count: 5
+  count: 10
   filters:
     folders:
       - eesg_seminar
@@ -19,6 +19,8 @@ content:
     publication_type: ''
   offset: 0
   order: desc
+  archive:
+    enable: false
 design:
   view: compact
   columns: '2'

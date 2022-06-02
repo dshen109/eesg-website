@@ -1,12 +1,13 @@
 ---
 # Display name
 title: Daniel Shen
+weight: 80
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:

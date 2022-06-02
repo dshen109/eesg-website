@@ -13,7 +13,7 @@ design:
   columns: '2'
   background:
     image: wind-turbines-wide-water-cropped.jpg
-    image_darken: 0.6
+    image_darken: 0.8
     image_parallax: true
     image_position: bottom right
     text_color_light: true
@@ -27,7 +27,7 @@ design:
 <br>
 
 The Electrical Energy Systems Group (EESG) focuses on research related to
-modeling and cyber (control & communications) design of our rapidly changing
+modeling, control, and communications design of our rapidly changing
 electric energy system. Our mission is to enable reliable, resilient,
 sustainable, and cost-effective electric energy service at scale.
 
