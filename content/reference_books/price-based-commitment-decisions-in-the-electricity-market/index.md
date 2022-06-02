@@ -1,6 +1,7 @@
 ---
-title: 'Power Systems Restructuring: Engineering and Economics'
+title: 'Price-Based Commitment Decisions In the Electricity Market'
 authors:
-  - Marija Ilic
-  - Francisco Galiana
-  - Lester Fink
+  - Eric Allen
+  - ilic
+publishDate: 1999-01-01
+---

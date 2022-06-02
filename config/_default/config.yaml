@@ -11,6 +11,10 @@ baseURL: 'https://eesg.mit.edu/' # Website URL
 ###############
 
 cascade:
+  - _target:
+      path: /**
+    profile: false
+    share: false
   # Blog post options
   - _target:
       path: /post/**
@@ -41,6 +45,9 @@ cascade:
       path: /presentation/**
     profile: false
     share: false
+  - _target:
+      path: /reference_books/**
+      date_format: "2006"
 
 ############################
 ## LANGUAGE
