@@ -1,0 +1,11 @@
+content/reference_books/hierarchical-power-systems-control/hierarchical-power-systems-control.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/price-based-commitment-decisions-in-the-electricity-market/price-based-commitment-decisions-in-the-electricity-market.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/dynamics-and-control-of-large-electric-power-systems/dynamics-and-control-of-large-electric-power-systems.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/engineering-it-enabled-sustainable-electricity-services/engineering-it-enabled-sustainable-electricity-services.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/distributed-multiparty-dc-power-flow-algorithm-with-secure-exchange-of-information/distributed-multiparty-dc-power-flow-algorithm-with-secure-exchange-of-information.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/power-systems-restructuring-engineering-and-economics/power-systems-restructuring-engineering-and-economics.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/toward-sensing-communications-and-control-architectures/toward-sensing-communications-and-control-architectures.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/unified-modeling-for-emulating-electric-energy-systems/unified-modeling-for-emulating-electric-energy-systems.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/valuation-hedging-and-speculation-in-competitive/valuation-hedging-and-speculation-in-competitive.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/a-strategic-framework-for-electric-energy-technology/a-strategic-framework-for-electric-energy-technology.pdf filter=lfs diff=lfs merge=lfs -text
+content/reference_books/control-and-optimization-methods-for-electric-smart-grids/control-and-optimization-methods-for-electric-smart-grids.pdf filter=lfs diff=lfs merge=lfs -text

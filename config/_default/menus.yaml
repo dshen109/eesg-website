@@ -31,6 +31,13 @@ main:
   - name: Seminar Series
     url: eesg_seminar_page
     weight: 60
+  - name: Resources
+    identifier: resources
+    weight: 70
+  - name: Books
+    parent: resources
+    weight: 20
+    url: reference_books
   # - name: Publications
   #   url: publication
   #   weight: 60
