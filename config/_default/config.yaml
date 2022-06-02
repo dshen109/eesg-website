@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Electrical Energy Systems Group # Website name
-baseURL: 'https://eesg.mit.edu/' # Website URL
+baseURL: 'https://mit-eesg.github.io' # Website URL
 
 ###############
 ## Page options
