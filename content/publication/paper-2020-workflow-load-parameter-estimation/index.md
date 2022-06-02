@@ -7,8 +7,8 @@ authors:
   - Christopher Smith
   - ilic
   - James L. Kirtley
-date: '2020-06-2020'
-doi: 'https://doi.org/10.1109/APEC39645.2020.9124307'
+date: '2020-06-25'
+doi: '10.1109/APEC39645.2020.9124307'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-06-20T00:00:00Z'
