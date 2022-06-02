@@ -1,13 +1,8 @@
-name: github pages
-
-on:
-  push:
-    branches:
-      - main  # Set a branch to deploy
-  pull_request:
-
+---
+name: Build Checks
+on: [push]
 jobs:
-  deploy:
+  build-test:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
@@ -24,10 +19,3 @@ jobs:
 
       - name: Build
         run: hugo -F --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
