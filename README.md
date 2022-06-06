@@ -1,14 +1,33 @@
 # Electric Energy Systems Group Website
 
+Welcome the the source repo for the EESG group website. This website is built
+using Hugo and Wowchemy. To make routine edits / content additions, you just
+need to add new markdown files following the existing folder structure.
+
+More extensive template edits can be made by overriding the Wowchemy templates
+as well, but this requires knowledge of HTML and potentially JavaScript.
 
 ## Local Build Instructions
 
-Install hugo from the source binaries (especially on Ubuntu, since installing via `apt-get` will give you an older version). Make sure you install the extended version. You
-will also need to install go: `sudo snap install --classic go`
+Install the most recent **extended** version of Hugo from the source binaries
+(especially on Ubuntu, since installing via `apt-get` will give you an older
+version). Make sure you install the extended version as Wowchemy will not work
+otherwise. You will also need to install go: `sudo snap install --classic go`
 
-Then run `hugo server` to preview the pages.
+Then run `hugo server` from the repo root to preview the pages.
 
 [Hugo install instructions](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
+
+### A Note About Building Large Files
+
+We host many "large" (>10MB) PDF files of books. To keep the repository
+lightweight, these files are stored using
+[Git Large File Storage](https://git-lfs.github.com/). Large files
+should not be added directly to the repository but should be
+[managed using LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage).
+If you do not have Git LFS installed, the `hugo server` command will work as
+normal locally, but you will be unable to view the large files. To download
+the files locally, install LFS and then run `git lfs pull`.
 
 ## Website Update Instructions
 
@@ -25,11 +44,29 @@ You should only have to modify files in `content/` to make updates. For more
 detailed documentation, see the
 [Wowchemy documentation](https://wowchemy.com/docs/)
 
+### Adding PDF files
+
+PDF files associated with content should have the same filename as their
+parent folder. For example, to upload a PDF file of presentation slides, the
+folder structure would look like
+`content/presentation/name-of-presentation/name-of-presentation.pdf`. This will
+automatically create a PDF button for that item in the content listview.
+
+For PDF files in `content/reference_books/`, large groups of PDF files
+(grouped seminar slides), or single PDFs greater than 20MB in side, you should
+not add them with `git add` but with `git lfs track pathtopdf`. You will need
+to [install Git Large File Storage](https://git-lfs.github.com/) to use this
+command.
+
+Other PDFs can be added using `git add -f pathtopdf`. The `-f` flag is
+necessary since **PDFs are ignored by default to prevent users from accidentally
+committing huge PDFs (or data-sensitive PDFs) to the repository**.
+
 ### Creating a news post
 
 News posts reside in `content/post`. You can add a featured image by uploading
 an image named `featured.jpg` to the post object's folder. For announcements
-that already have external webpages, you can avoid duplicating ocntent with
+that already have external webpages, you can avoid duplicating content with
 the `external_link` key:
 
 ```yaml
@@ -45,7 +82,8 @@ reading_time: false
 ```
 
 For posts where you want to add text to the website itself, you can add it
-using markdown after the yaml config:
+using markdown after the yaml config. Only the text above the `<!--more-->`
+section will show in post previews.
 
 ```yaml
 ---
@@ -245,3 +283,34 @@ projects: []
 slides:
 ---
 ```
+
+## Remote Build Process
+
+Each time a commit is pushed to the `main` or `github-pages` branch, a
+[Github action](https://github.com/features/actions) is triggered that runs
+the hugo build and pushes the build files to the `gh-pages` branch of the
+`mit-eesg.github.io` pages.
+
+The build configuration can be viewed at `.github/workflows/gh-pages.yml`. You
+should not need to change this file under normal situations. When Daniel Shen
+leaves, the access token secret will need to be changed to somebody else's
+action token.
+
+
+## Miscellaneous Tips
+
+### Hyperlinking
+
+Relative hyperlinks are supported. For example, having a markdown link in the
+file `content/post/postid/_index.md`
+
+```
+[linktext](another/level)
+```
+
+Will link to the page `domain.com/post/postid/another/level`. This can be
+useful for linking to supplementary pages or content.
+
+### Overriding layouts
+
+TODO: Fill out
