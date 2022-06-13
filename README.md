@@ -20,14 +20,9 @@ Then run `hugo server` from the repo root to preview the pages.
 
 ### A Note About Building Large Files
 
-We host many "large" (>10MB) PDF files of books. To keep the repository
-lightweight, these files are stored using
-[Git Large File Storage](https://git-lfs.github.com/). Large files
-should not be added directly to the repository but should be
-[managed using LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage).
-If you do not have Git LFS installed, the `hugo server` command will work as
-normal locally, but you will be unable to view the large files. To download
-the files locally, install LFS and then run `git lfs pull`.
+We host many "large" (>10MB) PDF files of books and presentations. To keep the
+repository lightweight, these files are in Dropbox. Large files should not be
+added directly to the repository directly.
 
 ## Website Update Instructions
 
@@ -54,9 +49,8 @@ automatically create a PDF button for that item in the content listview.
 
 For PDF files in `content/reference_books/`, large groups of PDF files
 (grouped seminar slides), or single PDFs greater than 20MB in side, you should
-not add them with `git add` but with `git lfs track pathtopdf`. You will need
-to [install Git Large File Storage](https://git-lfs.github.com/) to use this
-command.
+not add them directly to the repo but instead add them to the EESG-website
+Dropbox and link to them using the `url_pdf` field.
 
 Other PDFs can be added using `git add -f pathtopdf`. The `-f` flag is
 necessary since **PDFs are ignored by default to prevent users from accidentally
