@@ -5,4 +5,6 @@ date: '2022-06-02'
 
 <!--more-->
 
-Several books published from our group's work have been uploaded to our group website. They can be accessed and downloaded under [Resources >> Books](https://eesg.lids.mit.edu/reference_books).
+Several books published from our group's work have been uploaded to our group
+website. They can be accessed and downloaded under
+[Resources >> Books](/reference_books).
