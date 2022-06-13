@@ -4,4 +4,5 @@ authors:
   - Mariann Jelinek
   - ilic
 publishDate: 2009-01-01
+url_pdf: https://www.dropbox.com/s/gix6ron2qw6p3om/a-strategic-framework-for-electric-energy-technology.pdf
 ---
