@@ -11,7 +11,7 @@ design:
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 10000
+  interval: 5000
 
 content:
   slides:
@@ -21,4 +21,9 @@ content:
       caption: "Group members Matthew Gough, Miroslav Kosanic, Danilo Obradovic, Marija Ilic, Rupa Jaddivada, Dan Wu, and Tong Huang (May 2022)"
       background:
         media: '2022-may-group-photo.jpg'
+    - title:
+      align: top
+      caption: MIT's Stata Center (© 2021 Daniel Shen)
+      background:
+        media: 'stata-sky.jpg'
 ---
