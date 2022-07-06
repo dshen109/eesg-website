@@ -3,7 +3,7 @@ title: Preparing global online learners for the clean energy transition
 date: '2022-01-31'
 image:
   focal_point: 'middle'
-external_link:
+external_link: https://news.mit.edu/2022/preparing-global-online-learners-clean-energy-transition-0131
 profile: false
 reading_time: false
 ---
