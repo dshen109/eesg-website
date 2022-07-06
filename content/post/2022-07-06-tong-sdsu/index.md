@@ -3,7 +3,7 @@ title: Congrats Tong!
 date: 2022-06-28
 image:
   focal_point: 'middle'
-  caption: 
+  caption:
 profile: false
 reading_time: false
 ---
