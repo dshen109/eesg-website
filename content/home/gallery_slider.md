@@ -27,7 +27,7 @@ content:
       caption: Congrats to Tong, who will be starting as an Assistant Professor at SDSU in the fall!
       external_link: /posts/2022-07-06-tong-sdsu
       background:
-        media: 'tong-microgrids-presentation.jpg'
+        media: 'tong-microgrids-presentation.png'
     - title:
       align: top
       caption: MIT's Stata Center (© 2021 Daniel Shen)
