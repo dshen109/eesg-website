@@ -38,6 +38,10 @@ main:
     parent: resources
     weight: 20
     url: reference_books
+  - name: Birthday Workshop
+    parent: resources
+    weight: 30
+    url: bday
   # - name: Publications
   #   url: publication
   #   weight: 60
