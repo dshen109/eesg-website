@@ -19,9 +19,9 @@ content:
     - Principal Investigator
     - Researchers
     - Postdocs
-    - Grad Students
+    - Students
     - Visitors
-    - Recent Grad Students
+    - Recent Students
     # - Alumni
 design:
   show_interests: false

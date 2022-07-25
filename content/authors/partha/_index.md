@@ -39,7 +39,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Recent Grad Students
+  - Recent Students
 ---
 
 Mira Partha was an MEng student in the EECS Department at MIT. Previous to that she completed her SB at MIT in Electrical Engineering and Computer Science in 2019. She was a 2018 MIT Burchard Scholar, the 2017 first place recipient of the Isabelle de Courtivron Prize, and won an award for best student research poster at LLNL. Since 2016, Mira has worked on a variety of projects at Lawrence Livermore National Laboratory, first utilizing multi-physics simulations to study self-generated magnetic fields in ICF plasmas, and then developing a novel local, decentralized, hierarchical clustering algorithm for topologically distributed anomaly detection (with a focus on power distribution grids). Her research interests include applying data science and machine learning to challenging problems spanning a wide variety of applications, from cybersecurity, energy systems, and biomedical research, to cognitive radar and nuclear fusion/plasma physics research.
