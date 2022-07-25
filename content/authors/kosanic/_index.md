@@ -49,7 +49,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Students
 ---
 Miroslav Kosanic received his BSc and MSc in Electrical engineering and
 Computer science from the Faculty of Electrical engineering at the University

@@ -42,7 +42,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Students
 ---
 Daniel Shen received his bachelor’s degree in mechanical engineering from the
 University of California, Berkeley. Prior to starting a PhD in EECS at MIT,

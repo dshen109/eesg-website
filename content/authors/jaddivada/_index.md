@@ -39,7 +39,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Recent Grad Students
+  - Recent Students
 ---
 
 Rupamathi Jaddivada is a Post Doctoral Research Asociate at the Massachusetts
