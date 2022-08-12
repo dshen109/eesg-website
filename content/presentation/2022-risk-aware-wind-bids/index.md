@@ -24,7 +24,6 @@ tags:
 #   - Source Themes
 featured: false
 
-external_link: 'https://www.ferc.gov/media/risk-aware-wind-bids-distributed-optimization-and-central-dispatch'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
