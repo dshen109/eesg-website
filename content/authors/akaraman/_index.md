@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Janak Agarwal
+title: Ayşegül Karaman
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MEng, 2020
-date: 2020
+role: PhD Student, Technical University of Denmark
+date: 2022
 
 # Organizations/Affiliations
 organizations:
@@ -15,9 +15,9 @@ organizations:
     url: ''
 
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:srflana@mit.edu'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ayseg23@mit.edu'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
@@ -39,5 +39,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Recent Members
+  - Visitors
 ---

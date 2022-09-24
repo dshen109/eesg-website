@@ -21,7 +21,7 @@ content:
     - Postdocs
     - Students
     - Visitors
-    - Recent Students
+    - Recent Members
     # - Alumni
 design:
   show_interests: false

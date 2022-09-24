@@ -6,35 +6,16 @@ title: Marija Ilic
 superuser: true
 
 # Role/position
-role: Senior Research Scientist
+role: Senior Research Scientist & Adjunct Professor
 
 # Organizations/Affiliations
 organizations:
+  - name: MIT Department of Electrical Engineering and Computer Science
   - name: MIT Laboratory for Information and Decision Systems
     url: 'https://lids.mit.edu'
-  - name: Energy Systems Group 47, Lincoln Laboratory
+  # - name: Energy Systems Group 47, Lincoln Laboratory
   - name: New Electricity Transmission Software Solutions (NETSS) Inc.
   - name: Professor Emerita of Electrical & Computer Engineering; Engineering & Public Policy, Carnegie Mellon University
-
-# Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
-
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,3 +48,20 @@ highlight_name: true
 user_groups:
   - Principal Investigator
 ---
+Marija received her Sc.D. degree in Systems Science and Mathematics from the
+Department of Electrical and Systems Engineering at Washington University in
+1980. She then undertook a long academic career, including senior faculty
+positions at the University of Illinois at Urbana-Champaign and Carnegie Mellon
+University. Marija’s research contributions center around modeling and control
+of electric power systems. Marija has been a pioneer in treating the power
+system in a hierarchical manner, leading to the introduction of interaction
+variables and her DyMonDS framework for conceptualizing communication
+requirements and shared variables for the power systems of today and tomorrow.
+Marija has also had a distinguished career as a teacher, developing power
+systems curricula at CMU and classes here at MIT, and has co-authored several
+important textbooks in the field. Marija has also performed an extraordinary
+amount of service on program committees, task forces, associate/guest editor
+roles, and, perhaps most notably, as an NSF Program Director. Among her many
+awards, she is an IEEE Life Fellow, has received the Outstanding Power
+Engineering Educator Award by the IEEE Power & Energy Society, is a member of
+the Academia Europaea, and is a member of the National Academy of Engineering.

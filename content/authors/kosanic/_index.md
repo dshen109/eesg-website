@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Miroslav Kosanic
-weight: 30
+weight: 110
 
 # Is this the primary user of the site?
 superuser: false

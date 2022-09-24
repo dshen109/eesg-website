@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Recent Students
+  - Recent Members
 ---
 
 Graduated with M.S. in the Technology and Policy Program, Dept. of IDSS, May 2019

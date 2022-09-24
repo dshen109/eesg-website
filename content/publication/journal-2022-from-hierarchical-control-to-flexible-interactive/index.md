@@ -1,12 +1,12 @@
 ---
-title: 'Modeling and Control of Multi-Energy Dynamical Systems: Hidden Paths to Decarbonization'
+title: 'From hierarchical control to flexible interactive electricity services: A path to decarbonisation'
 # For authors who have a profile on the website, use their lowercase last name
 # (what their folder is named in `content/authors`)
 authors:
   - ilic
-  - jaddivada
-date: '2022-07-25'
-doi: ''
+  - Pedro M.S.Carvalho
+date: '2022-07-02'
+doi: '10.1016/j.epsr.2022.108554'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-15T00:00:00Z'
@@ -15,11 +15,11 @@ publishDate: '2022-01-15T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '11th Bulk Power Systems Dynamics and Control Symposium (IREP 2022)'
-publication_short: 'IREP'
+publication: 'Electric Power Systems Research'
+publication_short: ''
 
 tags:
 #   - Source Themes
@@ -28,7 +28,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2207.08370.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
