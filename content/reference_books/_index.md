@@ -9,3 +9,8 @@ banner:
   caption: ''
   image: ''
 ---
+
+The following is a list of books and book chapters published as part of our
+group's work; they have been made freely available to the public.
+<br>
+<br>
