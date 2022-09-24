@@ -7,7 +7,8 @@ weight: 60
 superuser: false
 
 # Role/position
-role: PhD Candidate, KTH Royal Institute of Technology
+role: Visitor (KTH), 2022
+date: 2022
 
 # Organizations/Affiliations
 organizations:
@@ -39,5 +40,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Recent Members
 ---
