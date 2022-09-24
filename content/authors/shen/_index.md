@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Daniel Shen
-weight: 80
+weight: 190
 
 # Is this the primary user of the site?
 superuser: true

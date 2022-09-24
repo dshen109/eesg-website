@@ -1,19 +1,18 @@
 ---
 # Display name
-title: Elaine Liu
-weight: 10120
+title: Jordina Pierre
+weight: 160
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergrad Researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
   - name: MIT Department of Electrical Engineering & Computer Science
     url: ''
-  - name: MIT Department of Mathematics
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -26,7 +25,7 @@ bio: ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:eliu24@mit.edu'
+    link: 'mailto:jordinap@mit.edu'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
@@ -35,7 +34,7 @@ social:
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/siyu-elaine-liu
+    link: https://www.linkedin.com/in/jordina-pierre-4aa7761b8
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,4 +52,4 @@ highlight_name: true
 user_groups:
   - Students
 ---
-Elaine Liu is a class of 2024 undergrad at MIT double majoring in Mathematics (18) and EECS (6-2). She is working on minimizing utility and social losses at the event of link failures in an electrical network as a UROP project. Elaine's research interest is all over the place, but mostly deal with graph problems of a combinatorial flavor. Outside of work, she likes to go on joyrides in the suburbs, powerlift, and cook for her friends
+Jordina Pierre received her bachelor’s degree in physics and mathematics with a minor in computational science from the University of the Virgin Islands. Growing up in the Virgin Islands, she was faced with the problem of island wide or community outages while still being charged exorbitant electricity rates. As a result, Jordina wants her research to focus on understanding how to implement a more sustainable and cost efficient power production system in the territory. Outside of work, she likes to sing, dance, cook, and is very adventurous.
