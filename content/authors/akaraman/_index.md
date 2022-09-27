@@ -18,9 +18,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ayseg23@mit.edu'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-kahraman-ba5a3ab7
   # - icon: google-scholar
   #   icon_pack: ai
   #   link:
@@ -41,3 +41,15 @@ highlight_name: true
 user_groups:
   - Visitors
 ---
+Aysegül Kahraman received her BSc and MSc in Electrical Engineering from the
+Faculty of Electrical and Electronic Engineering at Yasar University, Izmir,
+Turkey. She also worked in the Energy Systems Engineering department in the
+same university as a research assistant for 3 years. Her master's thesis was on
+the Forecasting-Based Hybrid Model Predictive Controller for Microgrid Energy
+Management. With this work, she realized that she wants to work on machine
+learning for energy problems. Then, she started her Phd at the Technical
+University of Denmark (DTU) with a project called "Unlocking the flexibility of
+multi-energy systems using artificial intelligence approaches". She is
+currently a visiting PhD student in EECS with the Electric Energy Systems Group
+for 5 months, where she will continue her research on the use of reinforcement
+learning algorithms in microgrids and power system applications.
