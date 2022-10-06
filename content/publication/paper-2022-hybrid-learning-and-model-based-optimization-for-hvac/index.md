@@ -20,7 +20,7 @@ publishDate: '2022-01-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '2022 IEEE PES General Meeting'
+publication: 'IEEE PES General Meeting'
 publication_short: ''
 
 tags:
