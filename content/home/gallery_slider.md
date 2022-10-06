@@ -17,6 +17,12 @@ content:
   slides:
     - title:
       content:
+      align: bottom
+      caption: Prof. Brian Ó Gallachóir (University College Cork), EESG members, and members of the MIT energy research community (Sep 2022)
+      background:
+        media: '2022-09-26-brian-o-gallachoir-visit.png'
+    - title:
+      content:
       align: center
       caption: "Group members Matthew Gough, Miroslav Kosanic, Danilo Obradovic, Marija Ilic, Rupa Jaddivada, Dan Wu, and Tong Huang (May 2022)"
       background:

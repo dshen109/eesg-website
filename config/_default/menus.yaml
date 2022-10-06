@@ -26,7 +26,7 @@ main:
     url: presentation_page
     weight: 30
   - name: Events
-    url: event_page
+    url: event
     weight: 50
   - name: Seminar Series
     url: eesg_seminar_page
