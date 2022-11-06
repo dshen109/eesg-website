@@ -8,6 +8,7 @@ superuser: false
 # Role/position
 role: PhD Student, Technical University of Denmark
 date: 2022
+weight: 20
 
 # Organizations/Affiliations
 organizations:
