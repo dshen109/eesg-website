@@ -6,7 +6,6 @@ authors:
 
 tags:
   - dymonds
-  - ongoing
 date: '2020-01-01T12:52:43-04:00'
 
 # Optional external URL for project (replaces project detail page).
