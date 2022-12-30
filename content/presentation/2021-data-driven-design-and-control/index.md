@@ -1,14 +1,10 @@
 ---
-title: 'On The Validity of Decomposition for Distributed Parameter Estimation in Complex Dynamical Systems: The Case of Cooling Systems'
+title: 'Data-driven Design & Control of Low-Carbon Microgrids for Developing Communities'
 authors:
-  - wu
-  - Janak Agarwal
   - bharadwaj
-  - Le Li
-  - Jinyi Zhang
   - ilic
-date: '2021-04-11'
-doi: '10.1109/NAPS50074.2021.9449723'
+date: '2021-08-11'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2013-01-01T00:00:00Z'
@@ -16,24 +12,24 @@ publishDate: '2013-01-01T00:00:00Z'
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
+# 7 = Thesis; 8 = Patent; 9 = Presentation
+publication_types: ['9']
 
 # Publication name and optional abbreviated publication name.
-publication: '2020 52nd North American Power Symposium'
-publication_short: 'NAPS'
+publication: "Applied Energy Symposium"
+publication_short: ''
 
 tags:
 #   - Source Themes
 featured: false
 
-# links:
+external_link: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '2021-data-driven-design-and-control.pdf'
 url_source: ''
 url_video: ''
 
