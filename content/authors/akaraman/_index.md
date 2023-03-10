@@ -6,9 +6,9 @@ title: Ayşegül Karaman
 superuser: false
 
 # Role/position
-role: PhD Student, Technical University of Denmark
-date: 2022
-weight: 20
+role: Visitor (DTU), 2023
+date: 2023
+weight: 1
 
 # Organizations/Affiliations
 organizations:
@@ -40,7 +40,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Recent Members
 ---
 Aysegül Kahraman received her BSc and MSc in Electrical Engineering from the
 Faculty of Electrical and Electronic Engineering at Yasar University, Izmir,

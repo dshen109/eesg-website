@@ -7,7 +7,8 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate
+role: Postdoc, 2022
+date: 2022
 
 # Organizations/Affiliations
 organizations:
@@ -39,7 +40,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdocs
+  - Recent Members
 ---
 Tong Huang is a postdoctoral associate at the Massachusetts Institute of
 Technology (MIT). Before joining MIT, he was a postdoctoral researcher at Texas
