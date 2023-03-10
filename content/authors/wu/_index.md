@@ -7,7 +7,8 @@ weight: 40
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate
+role: Postdoc, 2022
+date: 2022
 
 # Organizations/Affiliations
 organizations:
@@ -42,6 +43,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdocs
+  - Recent Members
 ---
 [Personal website here](http://danwu.mit.edu/)
