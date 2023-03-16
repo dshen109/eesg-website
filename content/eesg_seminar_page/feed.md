@@ -21,6 +21,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: 2023 Spring
+      tag: 2023 spring
     - name: 2022 Spring
       tag: '2022 spring'
     - name: 2021 Fall
