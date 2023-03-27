@@ -48,6 +48,14 @@ cascade:
   - _target:
       path: /reference_books/**
       date_format: "2006"
+  - _target:
+      path: eesg-seminar/2022-sp/**
+      tags:
+        - 2022 spring
+  - _target:
+      path: eesg-seminar/2021-fa/**
+      tags:
+        - 2021 fall
 
 ############################
 ## LANGUAGE
@@ -64,8 +72,10 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+
 
 ############################
 ## ADVANCED

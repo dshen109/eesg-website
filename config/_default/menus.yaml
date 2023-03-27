@@ -29,7 +29,7 @@ main:
     url: event
     weight: 50
   - name: Seminar Series
-    url: eesg_seminar_page
+    url: eesg-seminar
     weight: 60
   - name: Resources
     identifier: resources
