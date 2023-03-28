@@ -69,6 +69,6 @@ sections:
         - name: 2021 Fall
           tag: 2021 fall
     design:
-      view: Card
+      view: Talk
       columns: '1'
 ---

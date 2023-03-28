@@ -15,6 +15,7 @@ cascade:
       path: /**
     profile: false
     share: false
+    reading_time: false
   # Blog post options
   - _target:
       path: /post/**
@@ -37,23 +38,25 @@ cascade:
     profile: false
     share: false
   - _target:
-      path: /eesg_seminar/**
-    profile: false
-    all_day: false
-    share: false
-  - _target:
       path: /presentation/**
     profile: false
     share: false
   - _target:
-      path: /reference_books/**
-      date_format: "2006"
+    path: /reference_books/**
+    date_format: "2006"
   - _target:
-      path: eesg-seminar/2022-sp/**
-      tags:
-        - 2022 spring
+      path: /eesg-seminar/**
+    profile: false
+    all_day: false
+    share: false
   - _target:
-      path: eesg-seminar/2021-fa/**
+      path: /eesg-seminar/2022-sp/**
+    share: true
+    tags:
+      - 2022 spring
+  - _target:
+      path: /eesg-seminar/2021-fa/**
+      profile: true
       tags:
         - 2021 fall
 

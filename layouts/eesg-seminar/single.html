@@ -1,0 +1,39 @@
+{{- define "main" -}}
+
+<article class="article">
+
+    {{ partial "page_header" . }}
+
+    <!-- TODO: Modify page header to include the speaker. -->
+
+    <div class="article-container">
+
+        <div class="article-style">
+            {{ .Content }}
+        </div>
+
+
+        <!-- Abstract -->
+        {{ with .Params.Abstract }}
+        <div class="abstract">
+            <h3>Abstract</h3>
+            {{ . }}
+        </div>
+        {{ end }}
+
+        <!-- Speaker Bio -->
+        {{ with .Params.Bio }}
+        <div class="speaker-bio">
+            <h3>Speaker Bio</h3>
+            {{ . }}
+        </div>
+        {{ end }}
+
+
+
+        {{ partial "page_footer" . }}
+
+    </div>
+</article>
+
+{{- end -}}
