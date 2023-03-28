@@ -2,8 +2,8 @@
 title: 'Energy & Environmental Problems Facing the Third World and Their Probable Solutions'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
-
-summary: 'Dr. D. P. Kothari (S. B. Jain Institute of Management, Research and Technology)'
+speaker: Dr. D. P. Kothari
+affiliation: S. B. Jain Institute of Management, Research and Technology
 abstract: ""
 
 # Talk start and end times.
@@ -15,7 +15,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-02-09'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2022 spring
 
 # Is this a featured talk? (true/false)
 featured: false

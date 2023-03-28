@@ -2,8 +2,8 @@
 title: 'The Grid of Grids: Doing for Electricity What the Internet Did for Information'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
-
-summary: 'Brian Patterson'
+speaker: 'Brian Patterson'
+affiliation: EMerge Alliance
 abstract: |
     Over one sextillion watt hours of electricity is consumed around the world
     annually - mostly produced and distributed on demand using 100-year-old
@@ -75,7 +75,11 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-03-09T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2022 spring
+
 
 # Is this a featured talk? (true/false)
 featured: false

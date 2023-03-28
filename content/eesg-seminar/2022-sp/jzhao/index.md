@@ -2,8 +2,9 @@
 title: 'Physics-Informed Deep Reinforcement Learning for Power System Optimization and Control'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
+speaker: Prof. Junbo Zhao
+affliation: University of Connecticut
 
-summary: 'Prof. Junbo Zhao (University of Connecticut)'
 abstract: ""
 
 # Talk start and end times.
@@ -15,7 +16,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-03-09T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2022 spring
 
 # Is this a featured talk? (true/false)
 featured: false

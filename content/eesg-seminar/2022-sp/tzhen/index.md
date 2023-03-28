@@ -3,7 +3,8 @@ title: 'Research Needs for the Clean Energy Transition'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: 'Dr. Tongxin Zheng (ISO New England)'
+speaker: Dr. Tongxin Zheng
+affiliation: ISO New England
 abstract: ""
 
 # Talk start and end times.
@@ -15,7 +16,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-03-09T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2022 spring
 
 # Is this a featured talk? (true/false)
 featured: false

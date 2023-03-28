@@ -3,8 +3,13 @@ title: 'Re-examing the distributed slack bus'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: 'Prof. Sairaj Dhople (Univ of Minnesota)'
-abstract: ""
+speaker: Prof. Sairaj Dhople
+affiliation: University of Minnesota
+abstract: |
+    This talk will demystify the slack bus. The notion of the slack bus has been shrouded in confusion to varying degrees in power-system analysis. We will see that this is largely due to how power-flow problem formulations never quite kept up with industry practices. The talk will also formalize the idea of a distributed slack bus that provides high-accuracy power-flow solutions leveraging connections between the dynamics of synchronous generators, economic dispatch, and automatic generation control. We will end with a few pointers for how power-flow problems will have to be revisited in future grids with increased inverter-based resources.
+
+bio: |
+    Dr. Sairaj Dhople is currently serving as Associate Professor with the Department of Electrical and Computer Engineering at the University of Minnesota. His research interests include modeling, analysis, and control of power electronics and power systems with a focus on renewable integration. He is the recipient of the National Science Foundation CAREER Award in 2015, the Outstanding Young Engineer Award from the IEEE Power and Energy Society in 2019, and the IEEE Power and Energy Society Prize Paper Award in 2021.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -15,7 +20,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2021-10-06T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2021 fall
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -46,9 +54,3 @@ profile: false
 
 <br>
 
-
-## Abstract
-This talk will demystify the slack bus. The notion of the slack bus has been shrouded in confusion to varying degrees in power-system analysis. We will see that this is largely due to how power-flow problem formulations never quite kept up with industry practices. The talk will also formalize the idea of a distributed slack bus that provides high-accuracy power-flow solutions leveraging connections between the dynamics of synchronous generators, economic dispatch, and automatic generation control. We will end with a few pointers for how power-flow problems will have to be revisited in future grids with increased inverter-based resources.
-
-## Bios
-Dr. Sairaj Dhople is currently serving as Associate Professor with the Department of Electrical and Computer Engineering at the University of Minnesota. His research interests include modeling, analysis, and control of power electronics and power systems with a focus on renewable integration. He is the recipient of the National Science Foundation CAREER Award in 2015, the Outstanding Young Engineer Award from the IEEE Power and Energy Society in 2019, and the IEEE Power and Energy Society Prize Paper Award in 2021.

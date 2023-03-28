@@ -2,8 +2,8 @@
 title: 'The need for grid forming inverters in future power systems'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
-
-summary: 'Ben Kroposki (NREL)'
+speaker: Ben Kroposki
+affiliation: NREL
 abstract: ""
 
 # Talk start and end times.
@@ -15,7 +15,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2021-09-22T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2021 fall
 
 # Is this a featured talk? (true/false)
 featured: false

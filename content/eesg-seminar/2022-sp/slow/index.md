@@ -2,8 +2,8 @@
 title: 'Learning and Control in Power Distribution Grids'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
-
-summary: 'Prof. Steven Low (Caltech)'
+speaker: Prof. Steven Low
+affiliation: Caltech
 abstract: ""
 
 # Talk start and end times.
@@ -15,7 +15,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-03-09T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2022 spring
 
 # Is this a featured talk? (true/false)
 featured: false

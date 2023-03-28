@@ -3,7 +3,8 @@ title: 'Reliability Issues for the Electric System in a Rapidly Changing World'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: 'Mr. Chris Root'
+speaker: 'Chris Root'
+affiliation: ""
 abstract: ""
 
 # Talk start and end times.
@@ -15,7 +16,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2021-10-13T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2021 fall
 
 # Is this a featured talk? (true/false)
 featured: false

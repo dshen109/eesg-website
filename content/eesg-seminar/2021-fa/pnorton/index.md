@@ -3,8 +3,10 @@ title: 'Zero Trust Grid Architecture'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: 'Dr. Pamela Norton (Borsetta)'
-abstract: ""
+summary: Dr. Pamela Norton
+affiliation: Borsetta
+abstract: |
+    This session will discuss some of the game changing technologies that can modernize our energy grid including blockchain, federated machine learning, alternative direct current technology, embedded encryption, tokenization, intelligent digital twins, peer to peer trading and AI edge processing. Learn how we can utilize these new technologies to rapidly simulate emerging technologies to help accelerate American innovation and take the lead into the “Power of Everything & Everywhere Web 3.0” era.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -15,7 +17,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2021-12-22T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2021 fall
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -45,7 +50,3 @@ profile: false
 {{< youtube NHb3e1Gyi0M >}}
 
 <br>
-
-## Abstract
-
-This session will discuss some of the game changing technologies that can modernize our energy grid including blockchain, federated machine learning, alternative direct current technology, embedded encryption, tokenization, intelligent digital twins, peer to peer trading and AI edge processing. Learn how we can utilize these new technologies to rapidly simulate emerging technologies to help accelerate American innovation and take the lead into the “Power of Everything & Everywhere Web 3.0” era.

@@ -3,7 +3,8 @@ title: 'We need to talk about Low Voltage (Low Voltage Load Forecasting: Methods
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: 'Dr. Stephen Haben (Oxford) and Dr. Danica Vukadinović Greetham (Capgemini Engineering)'
+speaker: Dr. Stephen Haben and Dr. Danica Vukadinović Greetham
+affiliation: Oxford and Capgemini Engineering
 abstract: ""
 
 # Talk start and end times.
@@ -15,7 +16,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-02-09'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2022 spring
 
 # Is this a featured talk? (true/false)
 featured: false

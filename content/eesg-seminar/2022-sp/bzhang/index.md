@@ -3,7 +3,8 @@ title: 'Safe and Efficient Reinforcement Learning for Energy Systems'
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: Prof. Baosen Zhang
+speaker: Prof. Baosen Zhang
+affiliation: University of Washington
 abstract: |
     Inverter-based resources such as solar and storage provide us with more
     flexibility in the control of power systems. Through their power electronic
@@ -28,10 +29,14 @@ all_day: false
 publishDate: '2022-03-08T16:00:00Z'
 
 authors: []
-tags: []
+
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2022 spring
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 url_code: ''
 url_pdf: ''

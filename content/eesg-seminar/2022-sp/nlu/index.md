@@ -3,7 +3,8 @@ title: 'Development of the Photovoltaic (PV) Analysis and Response Support (PARS
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: 'Dr. Ning Lu (North Carolina State University)'
+summary: Prof. Ning Lu
+affiliation: North Carolina State University
 abstract: ""
 
 # Talk start and end times.
@@ -15,7 +16,10 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-03-09T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2022 spring
 
 # Is this a featured talk? (true/false)
 featured: false

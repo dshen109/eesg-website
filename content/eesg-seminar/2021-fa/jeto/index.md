@@ -3,8 +3,14 @@ title: 'Reliability and Resilience - How do they differ and how can society make
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 
-summary: 'Dr. Joe Eto (Lawrence Berkeley National Laboratory)'
-abstract: ""
+speaker: Dr. Joe Eto
+affiliation: Lawrence Berkeley National Laboratory
+abstract: |
+    This talk will offer perspectives on the differences and similarities between electricity reliability and resilience, introduce an economics-based method that supports decision-making around both, and describe the information on the costs of power interruptions that is available to support application of the method.
+bio: |
+    Joe Eto is a staff scientist at the Lawrence Berkeley National Laboratory where he serves as the strategic advisor for the Electricity Markets and Policy Group and for the Energy Storage and Demand Response Division. In addition to leading research on grid reliability technologies and policies for the US Department of Energy, he is also leading authority on reliability metrics and trends, and on the economic value of reliability to electricity customers.
+
+    Joe has authored over 250 publications on frequency response, transmission planning, electricity reliability metrics, trends and reliability value-based planning, power quality, distributed generation, energy efficiency, and demand response.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -15,7 +21,11 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2021-12-15T16:00:00Z'
 
-tags: []
+tags:
+    - seminar
+    - Changing Electric Energy Systems
+    - 2021 fall
+
 # Is this a featured talk? (true/false)
 featured: false
 
@@ -44,11 +54,3 @@ profile: false
 {{< youtube ud-1zFmsw6w >}}
 
 <br>
-
-## Abstract
-This talk will offer perspectives on the differences and similarities between electricity reliability and resilience, introduce an economics-based method that supports decision-making around both, and describe the information on the costs of power interruptions that is available to support application of the method.
-
-## Bio
-Joe Eto is a staff scientist at the Lawrence Berkeley National Laboratory where he serves as the strategic advisor for the Electricity Markets and Policy Group and for the Energy Storage and Demand Response Division. In addition to leading research on grid reliability technologies and policies for the US Department of Energy, he is also leading authority on reliability metrics and trends, and on the economic value of reliability to electricity customers.
-
-Joe has authored over 250 publications on frequency response, transmission planning, electricity reliability metrics, trends and reliability value-based planning, power quality, distributed generation, energy efficiency, and demand response.
