@@ -10,7 +10,5 @@ reading_time: false
 
 <!--more-->
 
-Our group's [seminar on changing electric energy systems](https://eesg.mit.edu/eesg_seminar_page/) is restarting this
-semester after a brief hiatus. We will have seminars running almost every
-week until the middle of May.
+Our group's [seminar on changing electric energy systems](https://eesg.mit.edu/eesg_seminar_page/) is restarting this semester after a brief hiatus. We will have seminars running almost every week until the middle of May.
 
