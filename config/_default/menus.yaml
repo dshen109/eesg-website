@@ -37,7 +37,7 @@ main:
   - name: Books
     parent: resources
     weight: 20
-    url: reference_books
+    url: reference-books
   - name: Birthday Workshop
     parent: resources
     weight: 30

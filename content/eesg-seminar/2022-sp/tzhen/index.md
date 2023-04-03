@@ -16,11 +16,6 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-03-09T16:00:00Z'
 
-tags:
-    - seminar
-    - Changing Electric Energy Systems
-    - 2022 spring
-
 # Is this a featured talk? (true/false)
 featured: false
 

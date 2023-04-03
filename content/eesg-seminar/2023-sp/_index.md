@@ -1,4 +1,6 @@
 ---
-tags:
-  - 2023 spring
+cascade:
+  tags:
+    - 2023 Spring
+    - Changing Electric Energy Systems
 ---
