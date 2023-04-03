@@ -16,6 +16,9 @@ cascade:
     profile: false
     share: false
     reading_time: false
+  - _target:
+    path: /post/**
+    show_date: true
   # Project post options
   - _target:
     path: /project/**
