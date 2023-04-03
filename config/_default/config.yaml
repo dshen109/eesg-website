@@ -12,53 +12,31 @@ baseURL: 'https://mit-eesg.github.io' # Website URL
 
 cascade:
   - _target:
-      path: /**
+    path: /**
     profile: false
     share: false
     reading_time: false
-  # Blog post options
-  - _target:
-      path: /post/**
-    reading_time: false
-    profile: false
   # Project post options
   - _target:
-      path: /project/**
+    path: /project/**
     show_date: false
-    profile: false
-    share: false
   # Event post options
   - _target:
-      path: /event/**
+    path: /event/**
     profile: false
     all_day: false
     share: false
+  # - _target:
+  #   path: /presentation/**
+  #   profile: false
+  #   share: false
   - _target:
-      path: /publication/**
-    profile: false
-    share: false
-  - _target:
-      path: /presentation/**
-    profile: false
-    share: false
-  - _target:
-    path: /reference_books/**
+    path: /reference-books/**
     date_format: "2006"
   - _target:
       path: /eesg-seminar/**
-    profile: false
     all_day: false
-    share: false
-  - _target:
-      path: /eesg-seminar/2022-sp/**
-    share: true
-    tags:
-      - 2022 spring
-  - _target:
-      path: /eesg-seminar/2021-fa/**
-      profile: true
-      tags:
-        - 2021 fall
+    show_date: true
 
 ############################
 ## LANGUAGE
