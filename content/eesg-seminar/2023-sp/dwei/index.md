@@ -27,7 +27,7 @@ featured: false
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=DaM1ltz8b58&ab_channel=EESGatMIT'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -46,6 +46,6 @@ projects: []
 profile: false
 ---
 
-<!-- {{< youtube pmtUfilHzsY >}} -->
+{{< youtube DaM1ltz8b58 >}}
 
 <br>
