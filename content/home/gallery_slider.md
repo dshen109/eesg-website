@@ -15,6 +15,11 @@ design:
 
 content:
   slides:
+    - align:
+      caption: Group members at the fall 2022 CEEPR workshop
+      align: top
+      background:
+        media: 2022-ceepr.png
     - title:
       align: top
       caption: MIT's Stata Center (© 2021 Daniel Shen)
