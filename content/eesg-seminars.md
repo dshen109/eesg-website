@@ -3,6 +3,8 @@
 type: landing
 title: "Changing Electric Energy Systems: Challenges and Opportunities"
 url: eesg-seminars
+aliases:
+    - /eesg-seminar/
 
 # Homepage is headless, other widget pages are not.
 headless: false
