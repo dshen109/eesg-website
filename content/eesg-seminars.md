@@ -2,11 +2,10 @@
 # Files in this folder represent a Widget Page (homepage)
 type: landing
 title: "Changing Electric Energy Systems: Challenges and Opportunities"
+url: eesg-seminar
 
 # Homepage is headless, other widget pages are not.
 headless: false
-
-# subtitle: "Spring 2023 co-organizers: [Marija Ilic](mailto:ilic@mit.edu) and [Daniel Shen](mailto:oski@mit.edu)<br> <sub>Previously co-organized with Dan Wu</sub>"
 
 
 sections:
