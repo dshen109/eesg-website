@@ -2,7 +2,7 @@
 # Files in this folder represent a Widget Page (homepage)
 type: landing
 title: "Changing Electric Energy Systems: Challenges and Opportunities"
-url: eesg-seminar
+url: eesg-seminars
 
 # Homepage is headless, other widget pages are not.
 headless: false
