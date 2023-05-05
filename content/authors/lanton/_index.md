@@ -17,7 +17,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lanton@mit.edu'
+    link: 'mailto:lauanton@mit.edu'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
