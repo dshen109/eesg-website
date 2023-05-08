@@ -20,9 +20,7 @@ marketing:
     org_name: 'Electric Energy Systems Group'
     description: 'The Electric Energy Systems Group (EESG) at MIT.'
     twitter: ''
-  analytics:
-    google_analytics: 'G-2DLNWBWGZ4'
-    baidu_tongji: ''
+  google_analytics: 'G-2DLNWBWGZ4'
   verification:
     google: ''
     baidu: ''
