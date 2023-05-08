@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Electrical Energy Systems Group'
-    description: 'The Electrical Energy Systems Group (EESG) at MIT.'
+    org_name: 'Electric Energy Systems Group'
+    description: 'The Electric Energy Systems Group (EESG) at MIT.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-6ZYRTHG1E2'
     baidu_tongji: ''
   verification:
     google: ''

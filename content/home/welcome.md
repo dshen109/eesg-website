@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Electrical Energy Systems Group
+  Electric Energy Systems Group
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
@@ -26,7 +26,7 @@ design:
 
 <br>
 
-The Electrical Energy Systems Group (EESG) focuses on research related to
+The Electric Energy Systems Group (EESG) focuses on research related to
 modeling, control, and communications design of our rapidly changing
 electric energy system. Our mission is to enable reliable, resilient,
 sustainable, and cost-effective electric energy service at scale.
