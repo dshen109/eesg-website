@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Paul Sizaire
-weight: 200
+weight: 3000
 
 # Is this the primary user of the site?
 superuser: false

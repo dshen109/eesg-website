@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Miroslav Kosanic
-weight: 110
+weight: 2021
 
 # Is this the primary user of the site?
 superuser: false

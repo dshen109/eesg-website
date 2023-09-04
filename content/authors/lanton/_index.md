@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Laurentiu Anton
-weight: 10
+weight: 2022
 
 # Is this the primary user of the site?
 superuser: true
