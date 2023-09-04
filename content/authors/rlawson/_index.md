@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Aaron Jones
-weight: 2022
+title: Riley Lawson
+weight: 2023
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,7 +17,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:aaron27@mit.edu'
+    link: 'mailto:lawsonri@mit.edu'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
@@ -44,9 +44,9 @@ highlight_name: true
 user_groups:
   - Students
 ---
-Aaron Jones obtained a bachelors degree in physics from Hampton University in
-Hampton, Virginia. Prior to starting a PhD in EECS at MIT, he had two
-internships with the DOD-ARL energy department working with
-alpha-photovolatics. Aaron's research interest include micro-grid simulations,
-energy grid control systems, and renewable energy resources with an emphasis on
-solar cells. Outside of work, he likes to swim, workout, and play video games.
+Riley Lawson graduated from Michigan State University with a bachelor's degree
+in electrical engineering and mathematics. During his undergraduate experience,
+he researched energy storage systems such as RFBs and potential applications of
+EVs for grid support. He is interested in working towards solving the
+challenges faced by increased levels of renewable energy present in the grid to
+allow for a more sustainable, renewable future.

@@ -1,14 +1,14 @@
 ---
 # Display name
 title: Sylvie Koziel
-weight: 40
+weight: 0
 date: 2022
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student, KTH Royal Institute of Technology
+role: Visitor (KTH), 2023
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Recent Members
 ---
 Sylvie Koziel has a diversified education and experience working in the fields
 of agronomy, energy and climate economics, electrical engineering and computer
