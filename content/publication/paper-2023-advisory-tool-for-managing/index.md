@@ -1,5 +1,5 @@
 ---
-title: 'Valuing Uncertainties in Wind Generation: An Agent-Based Optimization Approach'
+title: 'Advisory Tool for Managing Failure Cascades in Systems with Wind Power'
 # For authors who have a profile on the website, use their lowercase last name
 # (what their folder is named in `content/authors`)
 authors:
