@@ -1,5 +1,5 @@
 ---
-title: 'Advisory Tool for Managing Failure Cascades in Systems with Wind Power'
+title: 'AC OPF-enabled decarbonization for reliable and resilient service'
 authors:
   - ilic
 date: '2023-07-23'
