@@ -16,6 +16,11 @@ design:
 content:
   slides:
     - align:
+      caption: Members of the EESG group as of Fall 2023
+      align: top
+      background:
+        media: group-image-fa2023.png
+    - align:
       caption: Group members at the fall 2022 CEEPR workshop
       align: top
       background:
