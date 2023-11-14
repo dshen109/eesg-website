@@ -26,7 +26,7 @@ featured: false
 url_code: ''
 url_pdf: ''
 url_slides: ''
-# url_video: 'https://www.youtube.com/watch?v=DaM1ltz8b58&ab_channel=EESGatMIT'
+url_video: 'https://www.youtube.com/watch?v=ry77ZqO8EMY'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
