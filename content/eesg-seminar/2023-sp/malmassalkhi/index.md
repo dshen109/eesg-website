@@ -3,7 +3,7 @@ title: 'The Battle for Grid Flexibility: Control architectures, information gaps
 
 event: 'Changing Electric Energy Systems: Challenges and Opportunities'
 speaker: Prof. Mads Almassalkhi
-affiliation:
+affiliation: University of Vermont
 abstract: >
     As energy policies push electrification and renewable generation, responsive behind-the-meter DERs, such as smart thermostats, heat-pumps, EV chargers, and residential batteries, are being lifted into the ether to become part of 3rd-party aggregator platforms that can supply wholesale energy market services (as virtual power plants or VPPs) or utility services (as a retail VPP). The services are delivered by coordinating the response of DERs in (near) real-time based on changing market/grid/emission reference (power) signals (i.e., feedback). This talk will discuss different control architectures for DER coordination and the role of what is measured/estimated to enable closed-loop feedback control. In addition, as electrification efforts scale up, large-scale actuation of DERs can impact local distribution feeders, which begs the question of who is in charge of distribution grid reliability, if utilities cannot control the DERs and aggregators cannot observe the grid? The talk will discuss this asymmetry of information and propose a dynamic hosting-capacity mechanism through which utilities and aggregators can co-exist without one becoming the other or sacrificing grid reliability. Lastly, I will share some new directions from incoming projects.
 
@@ -25,7 +25,7 @@ featured: false
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=Q8rvU7p-PnM'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -43,7 +43,6 @@ projects: []
 
 profile: false
 ---
-<!--
-{{< youtube DaM1ltz8b58 >}} -->
+{{< youtube Q8rvU7p-PnM >}}
 
 <br>

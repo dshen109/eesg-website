@@ -31,7 +31,7 @@ featured: false
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=hxwremHWUBE'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -50,6 +50,6 @@ projects: []
 profile: false
 ---
 
-<!-- {{< youtube pmtUfilHzsY >}} -->
+{{< youtube hxwremHWUBE >}}
 
 <br>
