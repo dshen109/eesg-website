@@ -7,7 +7,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Assistant Professor, Aalborg University
+role: Visitor (AAU), 2023
 
 # Organizations/Affiliations
 organizations:
@@ -39,6 +39,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Recent Members
 ---
 Subham Sahoo received his Ph.D. degree in Electrical Engineering at Indian Institute of Technology, Delhi, New Delhi, India in 2014. He is currently an Assistant Professor in the Department of Energy, Aalborg University (AAU), Denmark, where he is also the vice-leader of the research group on Reliability of Power Electronic Converters (ReliaPEC) in AAU Energy. He is a visitor in LIDS from Oct-Dec 2023. His research interests are control, optimization, cybersecurity and stability of power electronic dominated grids, contextual application of machine learning in power systems. 

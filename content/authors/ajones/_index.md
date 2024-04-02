@@ -27,14 +27,14 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/LaurieAnton
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/laurentiuanton/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/aaron-jones-302141188/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/ajones.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -44,9 +44,4 @@ highlight_name: true
 user_groups:
   - Students
 ---
-Aaron Jones obtained a bachelors degree in physics from Hampton University in
-Hampton, Virginia. Prior to starting a PhD in EECS at MIT, he had two
-internships with the DOD-ARL energy department working with
-alpha-photovolatics. Aaron's research interest include micro-grid simulations,
-energy grid control systems, and renewable energy resources with an emphasis on
-solar cells. Outside of work, he likes to swim, workout, and play video games.
+Aaron Jones obtained a bachelor’s degree in physics from Hampton University in his hometown of Hampton, Virginia. Prior to starting his PhD in Electrical Engineering and Computer Science at MIT, he had two internships with the Department of Defense Arlington Research Lab energy department working with alpha-photovolatics. Aaron’s current research interest include microgrid simulations, digital twins, and the impact of controllable power converters for both energy storage systems and distributed energy resources. In summer 2023, Aaron became a National GEM Fellow during his internship at MIT Lincoln Labs. Outside of work, he is active in the MIT Black Graduate Student Association and likes to swim, workout, and try new foods.
