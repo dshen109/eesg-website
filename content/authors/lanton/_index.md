@@ -7,7 +7,7 @@ weight: 2022
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -30,6 +30,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/laurentiuanton/
+  - icon: home
+    icon_pack: fas
+    link: https://www.laurieanton.net/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -44,20 +47,4 @@ highlight_name: true
 user_groups:
   - Students
 ---
-Laurentiu Anton received his BSc in Honors Mathematical Physics from the
-University of Waterloo and went on to complete an MSc in Sustainable Energy
-Engineering, specializing in Electric Power Engineering and Management, at
-Reykjavik University (RU). His MSc thesis investigated solutions that improve
-islanding resilience for the Snæfellsnes transmission system. Since then,
-Laurentiu worked on over 1000 MW of solar, wind, and battery energy storage
-projects both operational and at various development stages before returning to
-RU to serve in both academic and administrative capacities. While at RU, and
-immediately prior to joining the EESG at MIT as a PhD candidate in EECS,
-Laurentiu served as a Project Manager for the Iceland School of Energy, a
-Lecturer in Electrical Engineering within the Department of Engineering, as
-well as the Administrative Director for the Sustainability Institute and Forum.
-Laurentiu’s research seeks to support Iceland’s decarbonization efforts,
-specifically with regards to transport electrification and how the Icelandic
-power systems can support this transition. Outside of work, Laurentiu enjoys
-reading, fitness, and nutrition. He can be spotted at meetings awkwardly taking
-out his food scale to track his intake.
+Laurentiu received his BSc in Honors Mathematical Physics from the University of Waterloo and went on to complete an MSc in Sustainable Energy Engineering, specializing in Electric Power Engineering and Management, at Reykjavik University (RU). His MSc thesis investigated solutions that improve islanding resilience for Snæfellsnes, in Iceland. Since then, Laurentiu worked on over 1 GW of solar, wind, and battery energy storage projects both operational and at various development stages before returning to RU to serve in both academic and administrative capacities. Laurentiu served as a Project Manager for the Iceland School of Energy, a Lecturer in Electrical Engineering within the Department of Engineering, as well as the Administrative Director for the Sustainability Institute and Forum, all at RU. Laurentiu’s research seeks to support grid decarbonization, renewable integration and transport electrification. He is a Co-President for the MIT Energy & Climate Club and continues to engage industry through research and consulting. Outside of work, Laurentiu enjoys reading, fitness, and nutrition. He can sometimes be spotted at meetings awkwardly taking out his food scale to track his intake.

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Elaine Liu
-weight: 4000
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -51,6 +51,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Recent Members
 ---
 Elaine Liu is a class of 2024 undergrad at MIT double majoring in Mathematics (18) and EECS (6-2). She is working on minimizing utility and social losses at the event of link failures in an electrical network as a UROP project. Elaine's research interest is all over the place, but mostly deal with graph problems of a combinatorial flavor. Outside of work, she likes to go on joyrides in the suburbs, powerlift, and cook for her friends
