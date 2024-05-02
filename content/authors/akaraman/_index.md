@@ -8,7 +8,7 @@ superuser: false
 # Role/position
 role: Visitor (DTU), 2023
 date: 2023
-weight: 1
+weight: 9
 
 # Organizations/Affiliations
 organizations:
