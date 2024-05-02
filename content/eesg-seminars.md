@@ -61,6 +61,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: 2024 Spring
+          tag: 2024 spring
         - name: 2023 Spring
           tag: 2023 spring
         - name: 2022 Spring
