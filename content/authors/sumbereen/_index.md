@@ -12,21 +12,21 @@ role: Visitor (KTH), 2024
 # Organizations/Affiliations
 organizations:
   - name: 'KTH Royal Institute of Technology'
-    url: ''
+    url: 'https://www.kth.se/profile/sayyeda?l=en'
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sayyeda@kth.se'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=_rShJNcAAAAJ&hl=en&oi=ao
+    link: 'mailto:umbereen@mit.edu'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=qwXzmksAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/LaurieAnton
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/laurentiuanton/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/sayyeda-umbereen-4b131450/
   # - icon: home
   #   icon_pack: fas
   #   link: https://www.laurieanton.net/
